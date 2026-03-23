@@ -1,0 +1,4947 @@
+{
+    "product": "Precip Rate",
+    "steps": [
+        {
+            "imageName": "20240820_0000_plot.png",
+            "timestamp": "20240820_0000",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:00"
+        },
+        {
+            "imageName": "20240820_0002_plot.png",
+            "timestamp": "20240820_0002",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:02"
+        },
+        {
+            "imageName": "20240820_0004_plot.png",
+            "timestamp": "20240820_0004",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:04"
+        },
+        {
+            "imageName": "20240820_0006_plot.png",
+            "timestamp": "20240820_0006",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:06"
+        },
+        {
+            "imageName": "20240820_0008_plot.png",
+            "timestamp": "20240820_0008",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:08"
+        },
+        {
+            "imageName": "20240820_0010_plot.png",
+            "timestamp": "20240820_0010",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:10"
+        },
+        {
+            "imageName": "20240820_0012_plot.png",
+            "timestamp": "20240820_0012",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:12"
+        },
+        {
+            "imageName": "20240820_0014_plot.png",
+            "timestamp": "20240820_0014",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:14"
+        },
+        {
+            "imageName": "20240820_0016_plot.png",
+            "timestamp": "20240820_0016",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:16"
+        },
+        {
+            "imageName": "20240820_0018_plot.png",
+            "timestamp": "20240820_0018",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:18"
+        },
+        {
+            "imageName": "20240820_0020_plot.png",
+            "timestamp": "20240820_0020",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:20"
+        },
+        {
+            "imageName": "20240820_0022_plot.png",
+            "timestamp": "20240820_0022",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:22"
+        },
+        {
+            "imageName": "20240820_0026_plot.png",
+            "timestamp": "20240820_0026",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:26"
+        },
+        {
+            "imageName": "20240820_0028_plot.png",
+            "timestamp": "20240820_0028",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:28"
+        },
+        {
+            "imageName": "20240820_0030_plot.png",
+            "timestamp": "20240820_0030",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:30"
+        },
+        {
+            "imageName": "20240820_0032_plot.png",
+            "timestamp": "20240820_0032",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:32"
+        },
+        {
+            "imageName": "20240820_0034_plot.png",
+            "timestamp": "20240820_0034",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:34"
+        },
+        {
+            "imageName": "20240820_0036_plot.png",
+            "timestamp": "20240820_0036",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:36"
+        },
+        {
+            "imageName": "20240820_0038_plot.png",
+            "timestamp": "20240820_0038",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:38"
+        },
+        {
+            "imageName": "20240820_0040_plot.png",
+            "timestamp": "20240820_0040",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:40"
+        },
+        {
+            "imageName": "20240820_0042_plot.png",
+            "timestamp": "20240820_0042",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:42"
+        },
+        {
+            "imageName": "20240820_0044_plot.png",
+            "timestamp": "20240820_0044",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:44"
+        },
+        {
+            "imageName": "20240820_0046_plot.png",
+            "timestamp": "20240820_0046",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:46"
+        },
+        {
+            "imageName": "20240820_0048_plot.png",
+            "timestamp": "20240820_0048",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:48"
+        },
+        {
+            "imageName": "20240820_0050_plot.png",
+            "timestamp": "20240820_0050",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:50"
+        },
+        {
+            "imageName": "20240820_0052_plot.png",
+            "timestamp": "20240820_0052",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:52"
+        },
+        {
+            "imageName": "20240820_0054_plot.png",
+            "timestamp": "20240820_0054",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:54"
+        },
+        {
+            "imageName": "20240820_0056_plot.png",
+            "timestamp": "20240820_0056",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:56"
+        },
+        {
+            "imageName": "20240820_0058_plot.png",
+            "timestamp": "20240820_0058",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "00:58"
+        },
+        {
+            "imageName": "20240820_0100_plot.png",
+            "timestamp": "20240820_0100",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:00"
+        },
+        {
+            "imageName": "20240820_0102_plot.png",
+            "timestamp": "20240820_0102",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:02"
+        },
+        {
+            "imageName": "20240820_0104_plot.png",
+            "timestamp": "20240820_0104",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:04"
+        },
+        {
+            "imageName": "20240820_0106_plot.png",
+            "timestamp": "20240820_0106",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:06"
+        },
+        {
+            "imageName": "20240820_0108_plot.png",
+            "timestamp": "20240820_0108",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:08"
+        },
+        {
+            "imageName": "20240820_0110_plot.png",
+            "timestamp": "20240820_0110",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:10"
+        },
+        {
+            "imageName": "20240820_0112_plot.png",
+            "timestamp": "20240820_0112",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:12"
+        },
+        {
+            "imageName": "20240820_0114_plot.png",
+            "timestamp": "20240820_0114",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:14"
+        },
+        {
+            "imageName": "20240820_0116_plot.png",
+            "timestamp": "20240820_0116",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:16"
+        },
+        {
+            "imageName": "20240820_0118_plot.png",
+            "timestamp": "20240820_0118",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:18"
+        },
+        {
+            "imageName": "20240820_0120_plot.png",
+            "timestamp": "20240820_0120",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:20"
+        },
+        {
+            "imageName": "20240820_0122_plot.png",
+            "timestamp": "20240820_0122",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:22"
+        },
+        {
+            "imageName": "20240820_0124_plot.png",
+            "timestamp": "20240820_0124",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:24"
+        },
+        {
+            "imageName": "20240820_0126_plot.png",
+            "timestamp": "20240820_0126",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:26"
+        },
+        {
+            "imageName": "20240820_0128_plot.png",
+            "timestamp": "20240820_0128",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:28"
+        },
+        {
+            "imageName": "20240820_0130_plot.png",
+            "timestamp": "20240820_0130",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:30"
+        },
+        {
+            "imageName": "20240820_0132_plot.png",
+            "timestamp": "20240820_0132",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:32"
+        },
+        {
+            "imageName": "20240820_0134_plot.png",
+            "timestamp": "20240820_0134",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:34"
+        },
+        {
+            "imageName": "20240820_0136_plot.png",
+            "timestamp": "20240820_0136",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:36"
+        },
+        {
+            "imageName": "20240820_0138_plot.png",
+            "timestamp": "20240820_0138",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:38"
+        },
+        {
+            "imageName": "20240820_0140_plot.png",
+            "timestamp": "20240820_0140",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:40"
+        },
+        {
+            "imageName": "20240820_0142_plot.png",
+            "timestamp": "20240820_0142",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:42"
+        },
+        {
+            "imageName": "20240820_0144_plot.png",
+            "timestamp": "20240820_0144",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:44"
+        },
+        {
+            "imageName": "20240820_0146_plot.png",
+            "timestamp": "20240820_0146",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:46"
+        },
+        {
+            "imageName": "20240820_0148_plot.png",
+            "timestamp": "20240820_0148",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:48"
+        },
+        {
+            "imageName": "20240820_0150_plot.png",
+            "timestamp": "20240820_0150",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:50"
+        },
+        {
+            "imageName": "20240820_0152_plot.png",
+            "timestamp": "20240820_0152",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:52"
+        },
+        {
+            "imageName": "20240820_0154_plot.png",
+            "timestamp": "20240820_0154",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:54"
+        },
+        {
+            "imageName": "20240820_0156_plot.png",
+            "timestamp": "20240820_0156",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:56"
+        },
+        {
+            "imageName": "20240820_0158_plot.png",
+            "timestamp": "20240820_0158",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "01:58"
+        },
+        {
+            "imageName": "20240820_0200_plot.png",
+            "timestamp": "20240820_0200",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:00"
+        },
+        {
+            "imageName": "20240820_0202_plot.png",
+            "timestamp": "20240820_0202",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:02"
+        },
+        {
+            "imageName": "20240820_0204_plot.png",
+            "timestamp": "20240820_0204",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:04"
+        },
+        {
+            "imageName": "20240820_0206_plot.png",
+            "timestamp": "20240820_0206",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:06"
+        },
+        {
+            "imageName": "20240820_0208_plot.png",
+            "timestamp": "20240820_0208",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:08"
+        },
+        {
+            "imageName": "20240820_0210_plot.png",
+            "timestamp": "20240820_0210",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:10"
+        },
+        {
+            "imageName": "20240820_0212_plot.png",
+            "timestamp": "20240820_0212",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:12"
+        },
+        {
+            "imageName": "20240820_0214_plot.png",
+            "timestamp": "20240820_0214",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:14"
+        },
+        {
+            "imageName": "20240820_0216_plot.png",
+            "timestamp": "20240820_0216",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:16"
+        },
+        {
+            "imageName": "20240820_0218_plot.png",
+            "timestamp": "20240820_0218",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:18"
+        },
+        {
+            "imageName": "20240820_0220_plot.png",
+            "timestamp": "20240820_0220",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:20"
+        },
+        {
+            "imageName": "20240820_0222_plot.png",
+            "timestamp": "20240820_0222",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:22"
+        },
+        {
+            "imageName": "20240820_0224_plot.png",
+            "timestamp": "20240820_0224",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:24"
+        },
+        {
+            "imageName": "20240820_0226_plot.png",
+            "timestamp": "20240820_0226",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:26"
+        },
+        {
+            "imageName": "20240820_0228_plot.png",
+            "timestamp": "20240820_0228",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:28"
+        },
+        {
+            "imageName": "20240820_0230_plot.png",
+            "timestamp": "20240820_0230",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:30"
+        },
+        {
+            "imageName": "20240820_0232_plot.png",
+            "timestamp": "20240820_0232",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:32"
+        },
+        {
+            "imageName": "20240820_0234_plot.png",
+            "timestamp": "20240820_0234",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:34"
+        },
+        {
+            "imageName": "20240820_0236_plot.png",
+            "timestamp": "20240820_0236",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:36"
+        },
+        {
+            "imageName": "20240820_0238_plot.png",
+            "timestamp": "20240820_0238",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:38"
+        },
+        {
+            "imageName": "20240820_0240_plot.png",
+            "timestamp": "20240820_0240",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:40"
+        },
+        {
+            "imageName": "20240820_0242_plot.png",
+            "timestamp": "20240820_0242",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:42"
+        },
+        {
+            "imageName": "20240820_0244_plot.png",
+            "timestamp": "20240820_0244",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:44"
+        },
+        {
+            "imageName": "20240820_0246_plot.png",
+            "timestamp": "20240820_0246",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:46"
+        },
+        {
+            "imageName": "20240820_0248_plot.png",
+            "timestamp": "20240820_0248",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:48"
+        },
+        {
+            "imageName": "20240820_0250_plot.png",
+            "timestamp": "20240820_0250",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:50"
+        },
+        {
+            "imageName": "20240820_0252_plot.png",
+            "timestamp": "20240820_0252",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:52"
+        },
+        {
+            "imageName": "20240820_0254_plot.png",
+            "timestamp": "20240820_0254",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:54"
+        },
+        {
+            "imageName": "20240820_0256_plot.png",
+            "timestamp": "20240820_0256",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:56"
+        },
+        {
+            "imageName": "20240820_0258_plot.png",
+            "timestamp": "20240820_0258",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "02:58"
+        },
+        {
+            "imageName": "20240820_0300_plot.png",
+            "timestamp": "20240820_0300",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:00"
+        },
+        {
+            "imageName": "20240820_0302_plot.png",
+            "timestamp": "20240820_0302",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:02"
+        },
+        {
+            "imageName": "20240820_0304_plot.png",
+            "timestamp": "20240820_0304",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:04"
+        },
+        {
+            "imageName": "20240820_0306_plot.png",
+            "timestamp": "20240820_0306",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:06"
+        },
+        {
+            "imageName": "20240820_0308_plot.png",
+            "timestamp": "20240820_0308",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:08"
+        },
+        {
+            "imageName": "20240820_0310_plot.png",
+            "timestamp": "20240820_0310",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:10"
+        },
+        {
+            "imageName": "20240820_0312_plot.png",
+            "timestamp": "20240820_0312",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:12"
+        },
+        {
+            "imageName": "20240820_0314_plot.png",
+            "timestamp": "20240820_0314",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:14"
+        },
+        {
+            "imageName": "20240820_0316_plot.png",
+            "timestamp": "20240820_0316",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:16"
+        },
+        {
+            "imageName": "20240820_0318_plot.png",
+            "timestamp": "20240820_0318",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:18"
+        },
+        {
+            "imageName": "20240820_0320_plot.png",
+            "timestamp": "20240820_0320",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:20"
+        },
+        {
+            "imageName": "20240820_0322_plot.png",
+            "timestamp": "20240820_0322",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:22"
+        },
+        {
+            "imageName": "20240820_0324_plot.png",
+            "timestamp": "20240820_0324",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:24"
+        },
+        {
+            "imageName": "20240820_0326_plot.png",
+            "timestamp": "20240820_0326",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:26"
+        },
+        {
+            "imageName": "20240820_0328_plot.png",
+            "timestamp": "20240820_0328",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:28"
+        },
+        {
+            "imageName": "20240820_0330_plot.png",
+            "timestamp": "20240820_0330",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:30"
+        },
+        {
+            "imageName": "20240820_0332_plot.png",
+            "timestamp": "20240820_0332",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:32"
+        },
+        {
+            "imageName": "20240820_0334_plot.png",
+            "timestamp": "20240820_0334",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:34"
+        },
+        {
+            "imageName": "20240820_0336_plot.png",
+            "timestamp": "20240820_0336",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:36"
+        },
+        {
+            "imageName": "20240820_0338_plot.png",
+            "timestamp": "20240820_0338",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:38"
+        },
+        {
+            "imageName": "20240820_0340_plot.png",
+            "timestamp": "20240820_0340",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:40"
+        },
+        {
+            "imageName": "20240820_0342_plot.png",
+            "timestamp": "20240820_0342",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:42"
+        },
+        {
+            "imageName": "20240820_0344_plot.png",
+            "timestamp": "20240820_0344",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:44"
+        },
+        {
+            "imageName": "20240820_0346_plot.png",
+            "timestamp": "20240820_0346",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:46"
+        },
+        {
+            "imageName": "20240820_0348_plot.png",
+            "timestamp": "20240820_0348",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:48"
+        },
+        {
+            "imageName": "20240820_0350_plot.png",
+            "timestamp": "20240820_0350",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:50"
+        },
+        {
+            "imageName": "20240820_0352_plot.png",
+            "timestamp": "20240820_0352",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:52"
+        },
+        {
+            "imageName": "20240820_0354_plot.png",
+            "timestamp": "20240820_0354",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:54"
+        },
+        {
+            "imageName": "20240820_0356_plot.png",
+            "timestamp": "20240820_0356",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:56"
+        },
+        {
+            "imageName": "20240820_0358_plot.png",
+            "timestamp": "20240820_0358",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "03:58"
+        },
+        {
+            "imageName": "20240820_0400_plot.png",
+            "timestamp": "20240820_0400",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:00"
+        },
+        {
+            "imageName": "20240820_0402_plot.png",
+            "timestamp": "20240820_0402",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:02"
+        },
+        {
+            "imageName": "20240820_0404_plot.png",
+            "timestamp": "20240820_0404",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:04"
+        },
+        {
+            "imageName": "20240820_0406_plot.png",
+            "timestamp": "20240820_0406",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:06"
+        },
+        {
+            "imageName": "20240820_0408_plot.png",
+            "timestamp": "20240820_0408",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:08"
+        },
+        {
+            "imageName": "20240820_0410_plot.png",
+            "timestamp": "20240820_0410",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:10"
+        },
+        {
+            "imageName": "20240820_0412_plot.png",
+            "timestamp": "20240820_0412",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:12"
+        },
+        {
+            "imageName": "20240820_0414_plot.png",
+            "timestamp": "20240820_0414",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:14"
+        },
+        {
+            "imageName": "20240820_0416_plot.png",
+            "timestamp": "20240820_0416",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:16"
+        },
+        {
+            "imageName": "20240820_0418_plot.png",
+            "timestamp": "20240820_0418",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:18"
+        },
+        {
+            "imageName": "20240820_0420_plot.png",
+            "timestamp": "20240820_0420",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:20"
+        },
+        {
+            "imageName": "20240820_0422_plot.png",
+            "timestamp": "20240820_0422",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:22"
+        },
+        {
+            "imageName": "20240820_0424_plot.png",
+            "timestamp": "20240820_0424",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:24"
+        },
+        {
+            "imageName": "20240820_0426_plot.png",
+            "timestamp": "20240820_0426",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:26"
+        },
+        {
+            "imageName": "20240820_0428_plot.png",
+            "timestamp": "20240820_0428",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:28"
+        },
+        {
+            "imageName": "20240820_0430_plot.png",
+            "timestamp": "20240820_0430",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:30"
+        },
+        {
+            "imageName": "20240820_0432_plot.png",
+            "timestamp": "20240820_0432",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:32"
+        },
+        {
+            "imageName": "20240820_0434_plot.png",
+            "timestamp": "20240820_0434",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:34"
+        },
+        {
+            "imageName": "20240820_0436_plot.png",
+            "timestamp": "20240820_0436",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:36"
+        },
+        {
+            "imageName": "20240820_0438_plot.png",
+            "timestamp": "20240820_0438",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:38"
+        },
+        {
+            "imageName": "20240820_0440_plot.png",
+            "timestamp": "20240820_0440",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:40"
+        },
+        {
+            "imageName": "20240820_0442_plot.png",
+            "timestamp": "20240820_0442",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:42"
+        },
+        {
+            "imageName": "20240820_0446_plot.png",
+            "timestamp": "20240820_0446",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:46"
+        },
+        {
+            "imageName": "20240820_0448_plot.png",
+            "timestamp": "20240820_0448",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:48"
+        },
+        {
+            "imageName": "20240820_0450_plot.png",
+            "timestamp": "20240820_0450",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:50"
+        },
+        {
+            "imageName": "20240820_0452_plot.png",
+            "timestamp": "20240820_0452",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:52"
+        },
+        {
+            "imageName": "20240820_0454_plot.png",
+            "timestamp": "20240820_0454",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:54"
+        },
+        {
+            "imageName": "20240820_0456_plot.png",
+            "timestamp": "20240820_0456",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:56"
+        },
+        {
+            "imageName": "20240820_0458_plot.png",
+            "timestamp": "20240820_0458",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "04:58"
+        },
+        {
+            "imageName": "20240820_0500_plot.png",
+            "timestamp": "20240820_0500",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:00"
+        },
+        {
+            "imageName": "20240820_0502_plot.png",
+            "timestamp": "20240820_0502",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:02"
+        },
+        {
+            "imageName": "20240820_0504_plot.png",
+            "timestamp": "20240820_0504",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:04"
+        },
+        {
+            "imageName": "20240820_0506_plot.png",
+            "timestamp": "20240820_0506",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:06"
+        },
+        {
+            "imageName": "20240820_0508_plot.png",
+            "timestamp": "20240820_0508",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:08"
+        },
+        {
+            "imageName": "20240820_0510_plot.png",
+            "timestamp": "20240820_0510",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:10"
+        },
+        {
+            "imageName": "20240820_0512_plot.png",
+            "timestamp": "20240820_0512",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:12"
+        },
+        {
+            "imageName": "20240820_0514_plot.png",
+            "timestamp": "20240820_0514",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:14"
+        },
+        {
+            "imageName": "20240820_0516_plot.png",
+            "timestamp": "20240820_0516",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:16"
+        },
+        {
+            "imageName": "20240820_0518_plot.png",
+            "timestamp": "20240820_0518",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:18"
+        },
+        {
+            "imageName": "20240820_0520_plot.png",
+            "timestamp": "20240820_0520",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:20"
+        },
+        {
+            "imageName": "20240820_0522_plot.png",
+            "timestamp": "20240820_0522",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:22"
+        },
+        {
+            "imageName": "20240820_0524_plot.png",
+            "timestamp": "20240820_0524",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:24"
+        },
+        {
+            "imageName": "20240820_0526_plot.png",
+            "timestamp": "20240820_0526",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:26"
+        },
+        {
+            "imageName": "20240820_0528_plot.png",
+            "timestamp": "20240820_0528",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:28"
+        },
+        {
+            "imageName": "20240820_0530_plot.png",
+            "timestamp": "20240820_0530",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:30"
+        },
+        {
+            "imageName": "20240820_0532_plot.png",
+            "timestamp": "20240820_0532",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:32"
+        },
+        {
+            "imageName": "20240820_0534_plot.png",
+            "timestamp": "20240820_0534",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:34"
+        },
+        {
+            "imageName": "20240820_0536_plot.png",
+            "timestamp": "20240820_0536",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:36"
+        },
+        {
+            "imageName": "20240820_0538_plot.png",
+            "timestamp": "20240820_0538",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:38"
+        },
+        {
+            "imageName": "20240820_0540_plot.png",
+            "timestamp": "20240820_0540",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:40"
+        },
+        {
+            "imageName": "20240820_0542_plot.png",
+            "timestamp": "20240820_0542",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:42"
+        },
+        {
+            "imageName": "20240820_0544_plot.png",
+            "timestamp": "20240820_0544",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:44"
+        },
+        {
+            "imageName": "20240820_0546_plot.png",
+            "timestamp": "20240820_0546",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:46"
+        },
+        {
+            "imageName": "20240820_0548_plot.png",
+            "timestamp": "20240820_0548",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:48"
+        },
+        {
+            "imageName": "20240820_0550_plot.png",
+            "timestamp": "20240820_0550",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:50"
+        },
+        {
+            "imageName": "20240820_0552_plot.png",
+            "timestamp": "20240820_0552",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:52"
+        },
+        {
+            "imageName": "20240820_0554_plot.png",
+            "timestamp": "20240820_0554",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:54"
+        },
+        {
+            "imageName": "20240820_0556_plot.png",
+            "timestamp": "20240820_0556",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:56"
+        },
+        {
+            "imageName": "20240820_0558_plot.png",
+            "timestamp": "20240820_0558",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "05:58"
+        },
+        {
+            "imageName": "20240820_0600_plot.png",
+            "timestamp": "20240820_0600",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:00"
+        },
+        {
+            "imageName": "20240820_0602_plot.png",
+            "timestamp": "20240820_0602",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:02"
+        },
+        {
+            "imageName": "20240820_0604_plot.png",
+            "timestamp": "20240820_0604",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:04"
+        },
+        {
+            "imageName": "20240820_0606_plot.png",
+            "timestamp": "20240820_0606",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:06"
+        },
+        {
+            "imageName": "20240820_0608_plot.png",
+            "timestamp": "20240820_0608",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:08"
+        },
+        {
+            "imageName": "20240820_0610_plot.png",
+            "timestamp": "20240820_0610",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:10"
+        },
+        {
+            "imageName": "20240820_0612_plot.png",
+            "timestamp": "20240820_0612",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:12"
+        },
+        {
+            "imageName": "20240820_0614_plot.png",
+            "timestamp": "20240820_0614",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:14"
+        },
+        {
+            "imageName": "20240820_0616_plot.png",
+            "timestamp": "20240820_0616",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:16"
+        },
+        {
+            "imageName": "20240820_0618_plot.png",
+            "timestamp": "20240820_0618",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:18"
+        },
+        {
+            "imageName": "20240820_0620_plot.png",
+            "timestamp": "20240820_0620",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:20"
+        },
+        {
+            "imageName": "20240820_0622_plot.png",
+            "timestamp": "20240820_0622",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:22"
+        },
+        {
+            "imageName": "20240820_0624_plot.png",
+            "timestamp": "20240820_0624",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:24"
+        },
+        {
+            "imageName": "20240820_0626_plot.png",
+            "timestamp": "20240820_0626",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:26"
+        },
+        {
+            "imageName": "20240820_0628_plot.png",
+            "timestamp": "20240820_0628",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:28"
+        },
+        {
+            "imageName": "20240820_0630_plot.png",
+            "timestamp": "20240820_0630",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:30"
+        },
+        {
+            "imageName": "20240820_0632_plot.png",
+            "timestamp": "20240820_0632",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:32"
+        },
+        {
+            "imageName": "20240820_0634_plot.png",
+            "timestamp": "20240820_0634",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:34"
+        },
+        {
+            "imageName": "20240820_0636_plot.png",
+            "timestamp": "20240820_0636",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:36"
+        },
+        {
+            "imageName": "20240820_0638_plot.png",
+            "timestamp": "20240820_0638",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:38"
+        },
+        {
+            "imageName": "20240820_0640_plot.png",
+            "timestamp": "20240820_0640",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:40"
+        },
+        {
+            "imageName": "20240820_0642_plot.png",
+            "timestamp": "20240820_0642",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:42"
+        },
+        {
+            "imageName": "20240820_0644_plot.png",
+            "timestamp": "20240820_0644",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:44"
+        },
+        {
+            "imageName": "20240820_0646_plot.png",
+            "timestamp": "20240820_0646",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:46"
+        },
+        {
+            "imageName": "20240820_0648_plot.png",
+            "timestamp": "20240820_0648",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:48"
+        },
+        {
+            "imageName": "20240820_0650_plot.png",
+            "timestamp": "20240820_0650",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:50"
+        },
+        {
+            "imageName": "20240820_0652_plot.png",
+            "timestamp": "20240820_0652",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:52"
+        },
+        {
+            "imageName": "20240820_0654_plot.png",
+            "timestamp": "20240820_0654",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:54"
+        },
+        {
+            "imageName": "20240820_0656_plot.png",
+            "timestamp": "20240820_0656",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:56"
+        },
+        {
+            "imageName": "20240820_0658_plot.png",
+            "timestamp": "20240820_0658",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "06:58"
+        },
+        {
+            "imageName": "20240820_0700_plot.png",
+            "timestamp": "20240820_0700",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:00"
+        },
+        {
+            "imageName": "20240820_0702_plot.png",
+            "timestamp": "20240820_0702",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:02"
+        },
+        {
+            "imageName": "20240820_0704_plot.png",
+            "timestamp": "20240820_0704",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:04"
+        },
+        {
+            "imageName": "20240820_0706_plot.png",
+            "timestamp": "20240820_0706",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:06"
+        },
+        {
+            "imageName": "20240820_0708_plot.png",
+            "timestamp": "20240820_0708",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:08"
+        },
+        {
+            "imageName": "20240820_0710_plot.png",
+            "timestamp": "20240820_0710",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:10"
+        },
+        {
+            "imageName": "20240820_0712_plot.png",
+            "timestamp": "20240820_0712",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:12"
+        },
+        {
+            "imageName": "20240820_0714_plot.png",
+            "timestamp": "20240820_0714",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:14"
+        },
+        {
+            "imageName": "20240820_0716_plot.png",
+            "timestamp": "20240820_0716",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:16"
+        },
+        {
+            "imageName": "20240820_0718_plot.png",
+            "timestamp": "20240820_0718",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:18"
+        },
+        {
+            "imageName": "20240820_0720_plot.png",
+            "timestamp": "20240820_0720",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:20"
+        },
+        {
+            "imageName": "20240820_0722_plot.png",
+            "timestamp": "20240820_0722",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:22"
+        },
+        {
+            "imageName": "20240820_0728_plot.png",
+            "timestamp": "20240820_0728",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:28"
+        },
+        {
+            "imageName": "20240820_0730_plot.png",
+            "timestamp": "20240820_0730",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:30"
+        },
+        {
+            "imageName": "20240820_0732_plot.png",
+            "timestamp": "20240820_0732",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:32"
+        },
+        {
+            "imageName": "20240820_0734_plot.png",
+            "timestamp": "20240820_0734",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:34"
+        },
+        {
+            "imageName": "20240820_0736_plot.png",
+            "timestamp": "20240820_0736",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:36"
+        },
+        {
+            "imageName": "20240820_0738_plot.png",
+            "timestamp": "20240820_0738",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:38"
+        },
+        {
+            "imageName": "20240820_0740_plot.png",
+            "timestamp": "20240820_0740",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:40"
+        },
+        {
+            "imageName": "20240820_0742_plot.png",
+            "timestamp": "20240820_0742",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:42"
+        },
+        {
+            "imageName": "20240820_0744_plot.png",
+            "timestamp": "20240820_0744",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:44"
+        },
+        {
+            "imageName": "20240820_0746_plot.png",
+            "timestamp": "20240820_0746",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:46"
+        },
+        {
+            "imageName": "20240820_0748_plot.png",
+            "timestamp": "20240820_0748",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:48"
+        },
+        {
+            "imageName": "20240820_0750_plot.png",
+            "timestamp": "20240820_0750",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:50"
+        },
+        {
+            "imageName": "20240820_0752_plot.png",
+            "timestamp": "20240820_0752",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:52"
+        },
+        {
+            "imageName": "20240820_0754_plot.png",
+            "timestamp": "20240820_0754",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:54"
+        },
+        {
+            "imageName": "20240820_0756_plot.png",
+            "timestamp": "20240820_0756",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:56"
+        },
+        {
+            "imageName": "20240820_0758_plot.png",
+            "timestamp": "20240820_0758",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "07:58"
+        },
+        {
+            "imageName": "20240820_0800_plot.png",
+            "timestamp": "20240820_0800",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:00"
+        },
+        {
+            "imageName": "20240820_0802_plot.png",
+            "timestamp": "20240820_0802",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:02"
+        },
+        {
+            "imageName": "20240820_0804_plot.png",
+            "timestamp": "20240820_0804",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:04"
+        },
+        {
+            "imageName": "20240820_0806_plot.png",
+            "timestamp": "20240820_0806",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:06"
+        },
+        {
+            "imageName": "20240820_0808_plot.png",
+            "timestamp": "20240820_0808",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:08"
+        },
+        {
+            "imageName": "20240820_0810_plot.png",
+            "timestamp": "20240820_0810",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:10"
+        },
+        {
+            "imageName": "20240820_0812_plot.png",
+            "timestamp": "20240820_0812",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:12"
+        },
+        {
+            "imageName": "20240820_0814_plot.png",
+            "timestamp": "20240820_0814",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:14"
+        },
+        {
+            "imageName": "20240820_0816_plot.png",
+            "timestamp": "20240820_0816",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:16"
+        },
+        {
+            "imageName": "20240820_0818_plot.png",
+            "timestamp": "20240820_0818",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:18"
+        },
+        {
+            "imageName": "20240820_0820_plot.png",
+            "timestamp": "20240820_0820",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:20"
+        },
+        {
+            "imageName": "20240820_0822_plot.png",
+            "timestamp": "20240820_0822",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:22"
+        },
+        {
+            "imageName": "20240820_0824_plot.png",
+            "timestamp": "20240820_0824",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:24"
+        },
+        {
+            "imageName": "20240820_0826_plot.png",
+            "timestamp": "20240820_0826",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:26"
+        },
+        {
+            "imageName": "20240820_0828_plot.png",
+            "timestamp": "20240820_0828",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:28"
+        },
+        {
+            "imageName": "20240820_0830_plot.png",
+            "timestamp": "20240820_0830",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:30"
+        },
+        {
+            "imageName": "20240820_0832_plot.png",
+            "timestamp": "20240820_0832",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:32"
+        },
+        {
+            "imageName": "20240820_0834_plot.png",
+            "timestamp": "20240820_0834",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:34"
+        },
+        {
+            "imageName": "20240820_0836_plot.png",
+            "timestamp": "20240820_0836",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:36"
+        },
+        {
+            "imageName": "20240820_0838_plot.png",
+            "timestamp": "20240820_0838",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:38"
+        },
+        {
+            "imageName": "20240820_0840_plot.png",
+            "timestamp": "20240820_0840",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:40"
+        },
+        {
+            "imageName": "20240820_0842_plot.png",
+            "timestamp": "20240820_0842",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:42"
+        },
+        {
+            "imageName": "20240820_0844_plot.png",
+            "timestamp": "20240820_0844",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:44"
+        },
+        {
+            "imageName": "20240820_0846_plot.png",
+            "timestamp": "20240820_0846",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:46"
+        },
+        {
+            "imageName": "20240820_0848_plot.png",
+            "timestamp": "20240820_0848",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:48"
+        },
+        {
+            "imageName": "20240820_0850_plot.png",
+            "timestamp": "20240820_0850",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:50"
+        },
+        {
+            "imageName": "20240820_0852_plot.png",
+            "timestamp": "20240820_0852",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:52"
+        },
+        {
+            "imageName": "20240820_0854_plot.png",
+            "timestamp": "20240820_0854",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:54"
+        },
+        {
+            "imageName": "20240820_0856_plot.png",
+            "timestamp": "20240820_0856",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:56"
+        },
+        {
+            "imageName": "20240820_0858_plot.png",
+            "timestamp": "20240820_0858",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "08:58"
+        },
+        {
+            "imageName": "20240820_0900_plot.png",
+            "timestamp": "20240820_0900",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:00"
+        },
+        {
+            "imageName": "20240820_0902_plot.png",
+            "timestamp": "20240820_0902",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:02"
+        },
+        {
+            "imageName": "20240820_0904_plot.png",
+            "timestamp": "20240820_0904",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:04"
+        },
+        {
+            "imageName": "20240820_0906_plot.png",
+            "timestamp": "20240820_0906",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:06"
+        },
+        {
+            "imageName": "20240820_0908_plot.png",
+            "timestamp": "20240820_0908",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:08"
+        },
+        {
+            "imageName": "20240820_0910_plot.png",
+            "timestamp": "20240820_0910",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:10"
+        },
+        {
+            "imageName": "20240820_0912_plot.png",
+            "timestamp": "20240820_0912",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:12"
+        },
+        {
+            "imageName": "20240820_0914_plot.png",
+            "timestamp": "20240820_0914",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:14"
+        },
+        {
+            "imageName": "20240820_0916_plot.png",
+            "timestamp": "20240820_0916",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:16"
+        },
+        {
+            "imageName": "20240820_0918_plot.png",
+            "timestamp": "20240820_0918",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:18"
+        },
+        {
+            "imageName": "20240820_0920_plot.png",
+            "timestamp": "20240820_0920",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:20"
+        },
+        {
+            "imageName": "20240820_0922_plot.png",
+            "timestamp": "20240820_0922",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:22"
+        },
+        {
+            "imageName": "20240820_0924_plot.png",
+            "timestamp": "20240820_0924",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:24"
+        },
+        {
+            "imageName": "20240820_0926_plot.png",
+            "timestamp": "20240820_0926",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:26"
+        },
+        {
+            "imageName": "20240820_0928_plot.png",
+            "timestamp": "20240820_0928",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:28"
+        },
+        {
+            "imageName": "20240820_0930_plot.png",
+            "timestamp": "20240820_0930",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:30"
+        },
+        {
+            "imageName": "20240820_0932_plot.png",
+            "timestamp": "20240820_0932",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:32"
+        },
+        {
+            "imageName": "20240820_0934_plot.png",
+            "timestamp": "20240820_0934",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:34"
+        },
+        {
+            "imageName": "20240820_0936_plot.png",
+            "timestamp": "20240820_0936",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:36"
+        },
+        {
+            "imageName": "20240820_0938_plot.png",
+            "timestamp": "20240820_0938",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:38"
+        },
+        {
+            "imageName": "20240820_0940_plot.png",
+            "timestamp": "20240820_0940",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:40"
+        },
+        {
+            "imageName": "20240820_0942_plot.png",
+            "timestamp": "20240820_0942",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:42"
+        },
+        {
+            "imageName": "20240820_0944_plot.png",
+            "timestamp": "20240820_0944",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:44"
+        },
+        {
+            "imageName": "20240820_0946_plot.png",
+            "timestamp": "20240820_0946",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:46"
+        },
+        {
+            "imageName": "20240820_0948_plot.png",
+            "timestamp": "20240820_0948",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:48"
+        },
+        {
+            "imageName": "20240820_0950_plot.png",
+            "timestamp": "20240820_0950",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:50"
+        },
+        {
+            "imageName": "20240820_0952_plot.png",
+            "timestamp": "20240820_0952",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:52"
+        },
+        {
+            "imageName": "20240820_0954_plot.png",
+            "timestamp": "20240820_0954",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:54"
+        },
+        {
+            "imageName": "20240820_0956_plot.png",
+            "timestamp": "20240820_0956",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:56"
+        },
+        {
+            "imageName": "20240820_0958_plot.png",
+            "timestamp": "20240820_0958",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "09:58"
+        },
+        {
+            "imageName": "20240820_1000_plot.png",
+            "timestamp": "20240820_1000",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:00"
+        },
+        {
+            "imageName": "20240820_1002_plot.png",
+            "timestamp": "20240820_1002",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:02"
+        },
+        {
+            "imageName": "20240820_1004_plot.png",
+            "timestamp": "20240820_1004",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:04"
+        },
+        {
+            "imageName": "20240820_1006_plot.png",
+            "timestamp": "20240820_1006",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:06"
+        },
+        {
+            "imageName": "20240820_1008_plot.png",
+            "timestamp": "20240820_1008",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:08"
+        },
+        {
+            "imageName": "20240820_1010_plot.png",
+            "timestamp": "20240820_1010",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:10"
+        },
+        {
+            "imageName": "20240820_1012_plot.png",
+            "timestamp": "20240820_1012",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:12"
+        },
+        {
+            "imageName": "20240820_1014_plot.png",
+            "timestamp": "20240820_1014",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:14"
+        },
+        {
+            "imageName": "20240820_1016_plot.png",
+            "timestamp": "20240820_1016",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:16"
+        },
+        {
+            "imageName": "20240820_1018_plot.png",
+            "timestamp": "20240820_1018",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:18"
+        },
+        {
+            "imageName": "20240820_1020_plot.png",
+            "timestamp": "20240820_1020",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:20"
+        },
+        {
+            "imageName": "20240820_1022_plot.png",
+            "timestamp": "20240820_1022",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:22"
+        },
+        {
+            "imageName": "20240820_1024_plot.png",
+            "timestamp": "20240820_1024",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:24"
+        },
+        {
+            "imageName": "20240820_1026_plot.png",
+            "timestamp": "20240820_1026",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:26"
+        },
+        {
+            "imageName": "20240820_1028_plot.png",
+            "timestamp": "20240820_1028",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:28"
+        },
+        {
+            "imageName": "20240820_1030_plot.png",
+            "timestamp": "20240820_1030",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:30"
+        },
+        {
+            "imageName": "20240820_1032_plot.png",
+            "timestamp": "20240820_1032",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:32"
+        },
+        {
+            "imageName": "20240820_1034_plot.png",
+            "timestamp": "20240820_1034",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:34"
+        },
+        {
+            "imageName": "20240820_1036_plot.png",
+            "timestamp": "20240820_1036",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:36"
+        },
+        {
+            "imageName": "20240820_1038_plot.png",
+            "timestamp": "20240820_1038",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:38"
+        },
+        {
+            "imageName": "20240820_1040_plot.png",
+            "timestamp": "20240820_1040",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:40"
+        },
+        {
+            "imageName": "20240820_1042_plot.png",
+            "timestamp": "20240820_1042",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:42"
+        },
+        {
+            "imageName": "20240820_1044_plot.png",
+            "timestamp": "20240820_1044",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:44"
+        },
+        {
+            "imageName": "20240820_1046_plot.png",
+            "timestamp": "20240820_1046",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:46"
+        },
+        {
+            "imageName": "20240820_1048_plot.png",
+            "timestamp": "20240820_1048",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:48"
+        },
+        {
+            "imageName": "20240820_1050_plot.png",
+            "timestamp": "20240820_1050",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:50"
+        },
+        {
+            "imageName": "20240820_1052_plot.png",
+            "timestamp": "20240820_1052",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:52"
+        },
+        {
+            "imageName": "20240820_1054_plot.png",
+            "timestamp": "20240820_1054",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:54"
+        },
+        {
+            "imageName": "20240820_1056_plot.png",
+            "timestamp": "20240820_1056",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:56"
+        },
+        {
+            "imageName": "20240820_1058_plot.png",
+            "timestamp": "20240820_1058",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "10:58"
+        },
+        {
+            "imageName": "20240820_1100_plot.png",
+            "timestamp": "20240820_1100",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:00"
+        },
+        {
+            "imageName": "20240820_1102_plot.png",
+            "timestamp": "20240820_1102",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:02"
+        },
+        {
+            "imageName": "20240820_1104_plot.png",
+            "timestamp": "20240820_1104",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:04"
+        },
+        {
+            "imageName": "20240820_1106_plot.png",
+            "timestamp": "20240820_1106",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:06"
+        },
+        {
+            "imageName": "20240820_1108_plot.png",
+            "timestamp": "20240820_1108",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:08"
+        },
+        {
+            "imageName": "20240820_1110_plot.png",
+            "timestamp": "20240820_1110",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:10"
+        },
+        {
+            "imageName": "20240820_1112_plot.png",
+            "timestamp": "20240820_1112",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:12"
+        },
+        {
+            "imageName": "20240820_1114_plot.png",
+            "timestamp": "20240820_1114",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:14"
+        },
+        {
+            "imageName": "20240820_1116_plot.png",
+            "timestamp": "20240820_1116",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:16"
+        },
+        {
+            "imageName": "20240820_1118_plot.png",
+            "timestamp": "20240820_1118",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:18"
+        },
+        {
+            "imageName": "20240820_1120_plot.png",
+            "timestamp": "20240820_1120",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:20"
+        },
+        {
+            "imageName": "20240820_1122_plot.png",
+            "timestamp": "20240820_1122",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:22"
+        },
+        {
+            "imageName": "20240820_1124_plot.png",
+            "timestamp": "20240820_1124",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:24"
+        },
+        {
+            "imageName": "20240820_1126_plot.png",
+            "timestamp": "20240820_1126",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:26"
+        },
+        {
+            "imageName": "20240820_1128_plot.png",
+            "timestamp": "20240820_1128",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:28"
+        },
+        {
+            "imageName": "20240820_1130_plot.png",
+            "timestamp": "20240820_1130",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:30"
+        },
+        {
+            "imageName": "20240820_1132_plot.png",
+            "timestamp": "20240820_1132",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:32"
+        },
+        {
+            "imageName": "20240820_1134_plot.png",
+            "timestamp": "20240820_1134",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:34"
+        },
+        {
+            "imageName": "20240820_1136_plot.png",
+            "timestamp": "20240820_1136",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:36"
+        },
+        {
+            "imageName": "20240820_1138_plot.png",
+            "timestamp": "20240820_1138",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:38"
+        },
+        {
+            "imageName": "20240820_1140_plot.png",
+            "timestamp": "20240820_1140",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:40"
+        },
+        {
+            "imageName": "20240820_1142_plot.png",
+            "timestamp": "20240820_1142",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:42"
+        },
+        {
+            "imageName": "20240820_1144_plot.png",
+            "timestamp": "20240820_1144",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:44"
+        },
+        {
+            "imageName": "20240820_1146_plot.png",
+            "timestamp": "20240820_1146",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:46"
+        },
+        {
+            "imageName": "20240820_1148_plot.png",
+            "timestamp": "20240820_1148",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:48"
+        },
+        {
+            "imageName": "20240820_1150_plot.png",
+            "timestamp": "20240820_1150",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:50"
+        },
+        {
+            "imageName": "20240820_1152_plot.png",
+            "timestamp": "20240820_1152",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:52"
+        },
+        {
+            "imageName": "20240820_1154_plot.png",
+            "timestamp": "20240820_1154",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:54"
+        },
+        {
+            "imageName": "20240820_1156_plot.png",
+            "timestamp": "20240820_1156",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:56"
+        },
+        {
+            "imageName": "20240820_1158_plot.png",
+            "timestamp": "20240820_1158",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "11:58"
+        },
+        {
+            "imageName": "20240820_1200_plot.png",
+            "timestamp": "20240820_1200",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:00"
+        },
+        {
+            "imageName": "20240820_1202_plot.png",
+            "timestamp": "20240820_1202",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:02"
+        },
+        {
+            "imageName": "20240820_1204_plot.png",
+            "timestamp": "20240820_1204",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:04"
+        },
+        {
+            "imageName": "20240820_1206_plot.png",
+            "timestamp": "20240820_1206",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:06"
+        },
+        {
+            "imageName": "20240820_1208_plot.png",
+            "timestamp": "20240820_1208",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:08"
+        },
+        {
+            "imageName": "20240820_1210_plot.png",
+            "timestamp": "20240820_1210",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:10"
+        },
+        {
+            "imageName": "20240820_1212_plot.png",
+            "timestamp": "20240820_1212",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:12"
+        },
+        {
+            "imageName": "20240820_1214_plot.png",
+            "timestamp": "20240820_1214",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:14"
+        },
+        {
+            "imageName": "20240820_1216_plot.png",
+            "timestamp": "20240820_1216",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:16"
+        },
+        {
+            "imageName": "20240820_1222_plot.png",
+            "timestamp": "20240820_1222",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:22"
+        },
+        {
+            "imageName": "20240820_1224_plot.png",
+            "timestamp": "20240820_1224",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:24"
+        },
+        {
+            "imageName": "20240820_1226_plot.png",
+            "timestamp": "20240820_1226",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:26"
+        },
+        {
+            "imageName": "20240820_1228_plot.png",
+            "timestamp": "20240820_1228",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:28"
+        },
+        {
+            "imageName": "20240820_1230_plot.png",
+            "timestamp": "20240820_1230",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:30"
+        },
+        {
+            "imageName": "20240820_1232_plot.png",
+            "timestamp": "20240820_1232",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:32"
+        },
+        {
+            "imageName": "20240820_1234_plot.png",
+            "timestamp": "20240820_1234",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:34"
+        },
+        {
+            "imageName": "20240820_1236_plot.png",
+            "timestamp": "20240820_1236",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:36"
+        },
+        {
+            "imageName": "20240820_1240_plot.png",
+            "timestamp": "20240820_1240",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:40"
+        },
+        {
+            "imageName": "20240820_1242_plot.png",
+            "timestamp": "20240820_1242",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:42"
+        },
+        {
+            "imageName": "20240820_1244_plot.png",
+            "timestamp": "20240820_1244",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:44"
+        },
+        {
+            "imageName": "20240820_1246_plot.png",
+            "timestamp": "20240820_1246",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:46"
+        },
+        {
+            "imageName": "20240820_1248_plot.png",
+            "timestamp": "20240820_1248",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:48"
+        },
+        {
+            "imageName": "20240820_1250_plot.png",
+            "timestamp": "20240820_1250",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:50"
+        },
+        {
+            "imageName": "20240820_1252_plot.png",
+            "timestamp": "20240820_1252",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:52"
+        },
+        {
+            "imageName": "20240820_1254_plot.png",
+            "timestamp": "20240820_1254",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:54"
+        },
+        {
+            "imageName": "20240820_1256_plot.png",
+            "timestamp": "20240820_1256",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:56"
+        },
+        {
+            "imageName": "20240820_1258_plot.png",
+            "timestamp": "20240820_1258",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "12:58"
+        },
+        {
+            "imageName": "20240820_1300_plot.png",
+            "timestamp": "20240820_1300",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:00"
+        },
+        {
+            "imageName": "20240820_1302_plot.png",
+            "timestamp": "20240820_1302",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:02"
+        },
+        {
+            "imageName": "20240820_1304_plot.png",
+            "timestamp": "20240820_1304",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:04"
+        },
+        {
+            "imageName": "20240820_1306_plot.png",
+            "timestamp": "20240820_1306",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:06"
+        },
+        {
+            "imageName": "20240820_1308_plot.png",
+            "timestamp": "20240820_1308",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:08"
+        },
+        {
+            "imageName": "20240820_1310_plot.png",
+            "timestamp": "20240820_1310",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:10"
+        },
+        {
+            "imageName": "20240820_1312_plot.png",
+            "timestamp": "20240820_1312",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:12"
+        },
+        {
+            "imageName": "20240820_1314_plot.png",
+            "timestamp": "20240820_1314",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:14"
+        },
+        {
+            "imageName": "20240820_1316_plot.png",
+            "timestamp": "20240820_1316",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:16"
+        },
+        {
+            "imageName": "20240820_1318_plot.png",
+            "timestamp": "20240820_1318",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:18"
+        },
+        {
+            "imageName": "20240820_1320_plot.png",
+            "timestamp": "20240820_1320",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:20"
+        },
+        {
+            "imageName": "20240820_1322_plot.png",
+            "timestamp": "20240820_1322",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:22"
+        },
+        {
+            "imageName": "20240820_1324_plot.png",
+            "timestamp": "20240820_1324",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:24"
+        },
+        {
+            "imageName": "20240820_1326_plot.png",
+            "timestamp": "20240820_1326",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:26"
+        },
+        {
+            "imageName": "20240820_1328_plot.png",
+            "timestamp": "20240820_1328",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:28"
+        },
+        {
+            "imageName": "20240820_1330_plot.png",
+            "timestamp": "20240820_1330",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:30"
+        },
+        {
+            "imageName": "20240820_1332_plot.png",
+            "timestamp": "20240820_1332",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:32"
+        },
+        {
+            "imageName": "20240820_1334_plot.png",
+            "timestamp": "20240820_1334",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:34"
+        },
+        {
+            "imageName": "20240820_1336_plot.png",
+            "timestamp": "20240820_1336",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:36"
+        },
+        {
+            "imageName": "20240820_1338_plot.png",
+            "timestamp": "20240820_1338",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:38"
+        },
+        {
+            "imageName": "20240820_1340_plot.png",
+            "timestamp": "20240820_1340",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:40"
+        },
+        {
+            "imageName": "20240820_1342_plot.png",
+            "timestamp": "20240820_1342",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:42"
+        },
+        {
+            "imageName": "20240820_1344_plot.png",
+            "timestamp": "20240820_1344",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:44"
+        },
+        {
+            "imageName": "20240820_1346_plot.png",
+            "timestamp": "20240820_1346",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:46"
+        },
+        {
+            "imageName": "20240820_1348_plot.png",
+            "timestamp": "20240820_1348",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:48"
+        },
+        {
+            "imageName": "20240820_1350_plot.png",
+            "timestamp": "20240820_1350",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:50"
+        },
+        {
+            "imageName": "20240820_1352_plot.png",
+            "timestamp": "20240820_1352",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:52"
+        },
+        {
+            "imageName": "20240820_1354_plot.png",
+            "timestamp": "20240820_1354",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:54"
+        },
+        {
+            "imageName": "20240820_1356_plot.png",
+            "timestamp": "20240820_1356",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:56"
+        },
+        {
+            "imageName": "20240820_1358_plot.png",
+            "timestamp": "20240820_1358",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "13:58"
+        },
+        {
+            "imageName": "20240820_1400_plot.png",
+            "timestamp": "20240820_1400",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:00"
+        },
+        {
+            "imageName": "20240820_1402_plot.png",
+            "timestamp": "20240820_1402",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:02"
+        },
+        {
+            "imageName": "20240820_1404_plot.png",
+            "timestamp": "20240820_1404",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:04"
+        },
+        {
+            "imageName": "20240820_1406_plot.png",
+            "timestamp": "20240820_1406",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:06"
+        },
+        {
+            "imageName": "20240820_1408_plot.png",
+            "timestamp": "20240820_1408",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:08"
+        },
+        {
+            "imageName": "20240820_1410_plot.png",
+            "timestamp": "20240820_1410",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:10"
+        },
+        {
+            "imageName": "20240820_1412_plot.png",
+            "timestamp": "20240820_1412",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:12"
+        },
+        {
+            "imageName": "20240820_1414_plot.png",
+            "timestamp": "20240820_1414",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:14"
+        },
+        {
+            "imageName": "20240820_1416_plot.png",
+            "timestamp": "20240820_1416",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:16"
+        },
+        {
+            "imageName": "20240820_1418_plot.png",
+            "timestamp": "20240820_1418",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:18"
+        },
+        {
+            "imageName": "20240820_1420_plot.png",
+            "timestamp": "20240820_1420",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:20"
+        },
+        {
+            "imageName": "20240820_1422_plot.png",
+            "timestamp": "20240820_1422",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:22"
+        },
+        {
+            "imageName": "20240820_1424_plot.png",
+            "timestamp": "20240820_1424",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:24"
+        },
+        {
+            "imageName": "20240820_1426_plot.png",
+            "timestamp": "20240820_1426",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:26"
+        },
+        {
+            "imageName": "20240820_1428_plot.png",
+            "timestamp": "20240820_1428",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:28"
+        },
+        {
+            "imageName": "20240820_1430_plot.png",
+            "timestamp": "20240820_1430",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:30"
+        },
+        {
+            "imageName": "20240820_1432_plot.png",
+            "timestamp": "20240820_1432",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:32"
+        },
+        {
+            "imageName": "20240820_1434_plot.png",
+            "timestamp": "20240820_1434",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:34"
+        },
+        {
+            "imageName": "20240820_1436_plot.png",
+            "timestamp": "20240820_1436",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:36"
+        },
+        {
+            "imageName": "20240820_1438_plot.png",
+            "timestamp": "20240820_1438",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:38"
+        },
+        {
+            "imageName": "20240820_1440_plot.png",
+            "timestamp": "20240820_1440",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:40"
+        },
+        {
+            "imageName": "20240820_1442_plot.png",
+            "timestamp": "20240820_1442",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:42"
+        },
+        {
+            "imageName": "20240820_1444_plot.png",
+            "timestamp": "20240820_1444",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:44"
+        },
+        {
+            "imageName": "20240820_1446_plot.png",
+            "timestamp": "20240820_1446",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:46"
+        },
+        {
+            "imageName": "20240820_1448_plot.png",
+            "timestamp": "20240820_1448",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:48"
+        },
+        {
+            "imageName": "20240820_1450_plot.png",
+            "timestamp": "20240820_1450",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:50"
+        },
+        {
+            "imageName": "20240820_1452_plot.png",
+            "timestamp": "20240820_1452",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:52"
+        },
+        {
+            "imageName": "20240820_1454_plot.png",
+            "timestamp": "20240820_1454",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:54"
+        },
+        {
+            "imageName": "20240820_1456_plot.png",
+            "timestamp": "20240820_1456",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:56"
+        },
+        {
+            "imageName": "20240820_1458_plot.png",
+            "timestamp": "20240820_1458",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "14:58"
+        },
+        {
+            "imageName": "20240820_1500_plot.png",
+            "timestamp": "20240820_1500",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:00"
+        },
+        {
+            "imageName": "20240820_1502_plot.png",
+            "timestamp": "20240820_1502",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:02"
+        },
+        {
+            "imageName": "20240820_1504_plot.png",
+            "timestamp": "20240820_1504",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:04"
+        },
+        {
+            "imageName": "20240820_1506_plot.png",
+            "timestamp": "20240820_1506",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:06"
+        },
+        {
+            "imageName": "20240820_1508_plot.png",
+            "timestamp": "20240820_1508",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:08"
+        },
+        {
+            "imageName": "20240820_1510_plot.png",
+            "timestamp": "20240820_1510",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:10"
+        },
+        {
+            "imageName": "20240820_1512_plot.png",
+            "timestamp": "20240820_1512",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:12"
+        },
+        {
+            "imageName": "20240820_1514_plot.png",
+            "timestamp": "20240820_1514",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:14"
+        },
+        {
+            "imageName": "20240820_1516_plot.png",
+            "timestamp": "20240820_1516",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:16"
+        },
+        {
+            "imageName": "20240820_1518_plot.png",
+            "timestamp": "20240820_1518",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:18"
+        },
+        {
+            "imageName": "20240820_1520_plot.png",
+            "timestamp": "20240820_1520",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:20"
+        },
+        {
+            "imageName": "20240820_1522_plot.png",
+            "timestamp": "20240820_1522",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:22"
+        },
+        {
+            "imageName": "20240820_1524_plot.png",
+            "timestamp": "20240820_1524",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:24"
+        },
+        {
+            "imageName": "20240820_1526_plot.png",
+            "timestamp": "20240820_1526",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:26"
+        },
+        {
+            "imageName": "20240820_1528_plot.png",
+            "timestamp": "20240820_1528",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:28"
+        },
+        {
+            "imageName": "20240820_1530_plot.png",
+            "timestamp": "20240820_1530",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:30"
+        },
+        {
+            "imageName": "20240820_1532_plot.png",
+            "timestamp": "20240820_1532",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:32"
+        },
+        {
+            "imageName": "20240820_1534_plot.png",
+            "timestamp": "20240820_1534",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:34"
+        },
+        {
+            "imageName": "20240820_1536_plot.png",
+            "timestamp": "20240820_1536",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:36"
+        },
+        {
+            "imageName": "20240820_1538_plot.png",
+            "timestamp": "20240820_1538",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:38"
+        },
+        {
+            "imageName": "20240820_1540_plot.png",
+            "timestamp": "20240820_1540",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:40"
+        },
+        {
+            "imageName": "20240820_1542_plot.png",
+            "timestamp": "20240820_1542",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:42"
+        },
+        {
+            "imageName": "20240820_1544_plot.png",
+            "timestamp": "20240820_1544",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:44"
+        },
+        {
+            "imageName": "20240820_1546_plot.png",
+            "timestamp": "20240820_1546",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:46"
+        },
+        {
+            "imageName": "20240820_1548_plot.png",
+            "timestamp": "20240820_1548",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:48"
+        },
+        {
+            "imageName": "20240820_1550_plot.png",
+            "timestamp": "20240820_1550",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:50"
+        },
+        {
+            "imageName": "20240820_1552_plot.png",
+            "timestamp": "20240820_1552",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:52"
+        },
+        {
+            "imageName": "20240820_1554_plot.png",
+            "timestamp": "20240820_1554",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:54"
+        },
+        {
+            "imageName": "20240820_1556_plot.png",
+            "timestamp": "20240820_1556",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:56"
+        },
+        {
+            "imageName": "20240820_1558_plot.png",
+            "timestamp": "20240820_1558",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "15:58"
+        },
+        {
+            "imageName": "20240820_1600_plot.png",
+            "timestamp": "20240820_1600",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:00"
+        },
+        {
+            "imageName": "20240820_1602_plot.png",
+            "timestamp": "20240820_1602",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:02"
+        },
+        {
+            "imageName": "20240820_1604_plot.png",
+            "timestamp": "20240820_1604",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:04"
+        },
+        {
+            "imageName": "20240820_1606_plot.png",
+            "timestamp": "20240820_1606",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:06"
+        },
+        {
+            "imageName": "20240820_1608_plot.png",
+            "timestamp": "20240820_1608",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:08"
+        },
+        {
+            "imageName": "20240820_1610_plot.png",
+            "timestamp": "20240820_1610",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:10"
+        },
+        {
+            "imageName": "20240820_1612_plot.png",
+            "timestamp": "20240820_1612",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:12"
+        },
+        {
+            "imageName": "20240820_1614_plot.png",
+            "timestamp": "20240820_1614",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:14"
+        },
+        {
+            "imageName": "20240820_1616_plot.png",
+            "timestamp": "20240820_1616",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:16"
+        },
+        {
+            "imageName": "20240820_1618_plot.png",
+            "timestamp": "20240820_1618",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:18"
+        },
+        {
+            "imageName": "20240820_1620_plot.png",
+            "timestamp": "20240820_1620",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:20"
+        },
+        {
+            "imageName": "20240820_1622_plot.png",
+            "timestamp": "20240820_1622",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:22"
+        },
+        {
+            "imageName": "20240820_1624_plot.png",
+            "timestamp": "20240820_1624",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:24"
+        },
+        {
+            "imageName": "20240820_1626_plot.png",
+            "timestamp": "20240820_1626",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:26"
+        },
+        {
+            "imageName": "20240820_1628_plot.png",
+            "timestamp": "20240820_1628",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:28"
+        },
+        {
+            "imageName": "20240820_1630_plot.png",
+            "timestamp": "20240820_1630",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:30"
+        },
+        {
+            "imageName": "20240820_1632_plot.png",
+            "timestamp": "20240820_1632",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:32"
+        },
+        {
+            "imageName": "20240820_1634_plot.png",
+            "timestamp": "20240820_1634",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:34"
+        },
+        {
+            "imageName": "20240820_1636_plot.png",
+            "timestamp": "20240820_1636",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:36"
+        },
+        {
+            "imageName": "20240820_1638_plot.png",
+            "timestamp": "20240820_1638",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:38"
+        },
+        {
+            "imageName": "20240820_1640_plot.png",
+            "timestamp": "20240820_1640",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:40"
+        },
+        {
+            "imageName": "20240820_1642_plot.png",
+            "timestamp": "20240820_1642",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:42"
+        },
+        {
+            "imageName": "20240820_1644_plot.png",
+            "timestamp": "20240820_1644",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:44"
+        },
+        {
+            "imageName": "20240820_1646_plot.png",
+            "timestamp": "20240820_1646",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:46"
+        },
+        {
+            "imageName": "20240820_1648_plot.png",
+            "timestamp": "20240820_1648",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:48"
+        },
+        {
+            "imageName": "20240820_1650_plot.png",
+            "timestamp": "20240820_1650",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:50"
+        },
+        {
+            "imageName": "20240820_1652_plot.png",
+            "timestamp": "20240820_1652",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:52"
+        },
+        {
+            "imageName": "20240820_1654_plot.png",
+            "timestamp": "20240820_1654",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:54"
+        },
+        {
+            "imageName": "20240820_1656_plot.png",
+            "timestamp": "20240820_1656",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:56"
+        },
+        {
+            "imageName": "20240820_1658_plot.png",
+            "timestamp": "20240820_1658",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "16:58"
+        },
+        {
+            "imageName": "20240820_1700_plot.png",
+            "timestamp": "20240820_1700",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:00"
+        },
+        {
+            "imageName": "20240820_1702_plot.png",
+            "timestamp": "20240820_1702",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:02"
+        },
+        {
+            "imageName": "20240820_1704_plot.png",
+            "timestamp": "20240820_1704",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:04"
+        },
+        {
+            "imageName": "20240820_1706_plot.png",
+            "timestamp": "20240820_1706",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:06"
+        },
+        {
+            "imageName": "20240820_1708_plot.png",
+            "timestamp": "20240820_1708",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:08"
+        },
+        {
+            "imageName": "20240820_1710_plot.png",
+            "timestamp": "20240820_1710",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:10"
+        },
+        {
+            "imageName": "20240820_1712_plot.png",
+            "timestamp": "20240820_1712",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:12"
+        },
+        {
+            "imageName": "20240820_1714_plot.png",
+            "timestamp": "20240820_1714",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:14"
+        },
+        {
+            "imageName": "20240820_1716_plot.png",
+            "timestamp": "20240820_1716",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:16"
+        },
+        {
+            "imageName": "20240820_1718_plot.png",
+            "timestamp": "20240820_1718",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:18"
+        },
+        {
+            "imageName": "20240820_1720_plot.png",
+            "timestamp": "20240820_1720",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:20"
+        },
+        {
+            "imageName": "20240820_1722_plot.png",
+            "timestamp": "20240820_1722",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:22"
+        },
+        {
+            "imageName": "20240820_1724_plot.png",
+            "timestamp": "20240820_1724",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:24"
+        },
+        {
+            "imageName": "20240820_1726_plot.png",
+            "timestamp": "20240820_1726",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:26"
+        },
+        {
+            "imageName": "20240820_1728_plot.png",
+            "timestamp": "20240820_1728",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:28"
+        },
+        {
+            "imageName": "20240820_1730_plot.png",
+            "timestamp": "20240820_1730",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:30"
+        },
+        {
+            "imageName": "20240820_1732_plot.png",
+            "timestamp": "20240820_1732",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:32"
+        },
+        {
+            "imageName": "20240820_1734_plot.png",
+            "timestamp": "20240820_1734",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:34"
+        },
+        {
+            "imageName": "20240820_1736_plot.png",
+            "timestamp": "20240820_1736",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:36"
+        },
+        {
+            "imageName": "20240820_1738_plot.png",
+            "timestamp": "20240820_1738",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:38"
+        },
+        {
+            "imageName": "20240820_1740_plot.png",
+            "timestamp": "20240820_1740",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:40"
+        },
+        {
+            "imageName": "20240820_1742_plot.png",
+            "timestamp": "20240820_1742",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:42"
+        },
+        {
+            "imageName": "20240820_1744_plot.png",
+            "timestamp": "20240820_1744",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:44"
+        },
+        {
+            "imageName": "20240820_1746_plot.png",
+            "timestamp": "20240820_1746",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:46"
+        },
+        {
+            "imageName": "20240820_1748_plot.png",
+            "timestamp": "20240820_1748",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:48"
+        },
+        {
+            "imageName": "20240820_1750_plot.png",
+            "timestamp": "20240820_1750",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:50"
+        },
+        {
+            "imageName": "20240820_1752_plot.png",
+            "timestamp": "20240820_1752",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:52"
+        },
+        {
+            "imageName": "20240820_1754_plot.png",
+            "timestamp": "20240820_1754",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:54"
+        },
+        {
+            "imageName": "20240820_1756_plot.png",
+            "timestamp": "20240820_1756",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:56"
+        },
+        {
+            "imageName": "20240820_1758_plot.png",
+            "timestamp": "20240820_1758",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "17:58"
+        },
+        {
+            "imageName": "20240820_1800_plot.png",
+            "timestamp": "20240820_1800",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:00"
+        },
+        {
+            "imageName": "20240820_1802_plot.png",
+            "timestamp": "20240820_1802",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:02"
+        },
+        {
+            "imageName": "20240820_1804_plot.png",
+            "timestamp": "20240820_1804",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:04"
+        },
+        {
+            "imageName": "20240820_1806_plot.png",
+            "timestamp": "20240820_1806",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:06"
+        },
+        {
+            "imageName": "20240820_1808_plot.png",
+            "timestamp": "20240820_1808",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:08"
+        },
+        {
+            "imageName": "20240820_1810_plot.png",
+            "timestamp": "20240820_1810",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:10"
+        },
+        {
+            "imageName": "20240820_1812_plot.png",
+            "timestamp": "20240820_1812",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:12"
+        },
+        {
+            "imageName": "20240820_1814_plot.png",
+            "timestamp": "20240820_1814",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:14"
+        },
+        {
+            "imageName": "20240820_1816_plot.png",
+            "timestamp": "20240820_1816",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:16"
+        },
+        {
+            "imageName": "20240820_1818_plot.png",
+            "timestamp": "20240820_1818",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:18"
+        },
+        {
+            "imageName": "20240820_1820_plot.png",
+            "timestamp": "20240820_1820",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:20"
+        },
+        {
+            "imageName": "20240820_1822_plot.png",
+            "timestamp": "20240820_1822",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:22"
+        },
+        {
+            "imageName": "20240820_1824_plot.png",
+            "timestamp": "20240820_1824",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:24"
+        },
+        {
+            "imageName": "20240820_1826_plot.png",
+            "timestamp": "20240820_1826",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:26"
+        },
+        {
+            "imageName": "20240820_1828_plot.png",
+            "timestamp": "20240820_1828",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:28"
+        },
+        {
+            "imageName": "20240820_1830_plot.png",
+            "timestamp": "20240820_1830",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:30"
+        },
+        {
+            "imageName": "20240820_1832_plot.png",
+            "timestamp": "20240820_1832",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:32"
+        },
+        {
+            "imageName": "20240820_1834_plot.png",
+            "timestamp": "20240820_1834",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:34"
+        },
+        {
+            "imageName": "20240820_1836_plot.png",
+            "timestamp": "20240820_1836",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:36"
+        },
+        {
+            "imageName": "20240820_1838_plot.png",
+            "timestamp": "20240820_1838",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:38"
+        },
+        {
+            "imageName": "20240820_1840_plot.png",
+            "timestamp": "20240820_1840",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:40"
+        },
+        {
+            "imageName": "20240820_1842_plot.png",
+            "timestamp": "20240820_1842",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:42"
+        },
+        {
+            "imageName": "20240820_1844_plot.png",
+            "timestamp": "20240820_1844",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:44"
+        },
+        {
+            "imageName": "20240820_1846_plot.png",
+            "timestamp": "20240820_1846",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:46"
+        },
+        {
+            "imageName": "20240820_1848_plot.png",
+            "timestamp": "20240820_1848",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:48"
+        },
+        {
+            "imageName": "20240820_1850_plot.png",
+            "timestamp": "20240820_1850",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:50"
+        },
+        {
+            "imageName": "20240820_1852_plot.png",
+            "timestamp": "20240820_1852",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:52"
+        },
+        {
+            "imageName": "20240820_1854_plot.png",
+            "timestamp": "20240820_1854",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:54"
+        },
+        {
+            "imageName": "20240820_1856_plot.png",
+            "timestamp": "20240820_1856",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:56"
+        },
+        {
+            "imageName": "20240820_1858_plot.png",
+            "timestamp": "20240820_1858",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "18:58"
+        },
+        {
+            "imageName": "20240820_1900_plot.png",
+            "timestamp": "20240820_1900",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:00"
+        },
+        {
+            "imageName": "20240820_1902_plot.png",
+            "timestamp": "20240820_1902",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:02"
+        },
+        {
+            "imageName": "20240820_1904_plot.png",
+            "timestamp": "20240820_1904",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:04"
+        },
+        {
+            "imageName": "20240820_1906_plot.png",
+            "timestamp": "20240820_1906",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:06"
+        },
+        {
+            "imageName": "20240820_1908_plot.png",
+            "timestamp": "20240820_1908",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:08"
+        },
+        {
+            "imageName": "20240820_1910_plot.png",
+            "timestamp": "20240820_1910",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:10"
+        },
+        {
+            "imageName": "20240820_1912_plot.png",
+            "timestamp": "20240820_1912",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:12"
+        },
+        {
+            "imageName": "20240820_1914_plot.png",
+            "timestamp": "20240820_1914",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:14"
+        },
+        {
+            "imageName": "20240820_1916_plot.png",
+            "timestamp": "20240820_1916",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:16"
+        },
+        {
+            "imageName": "20240820_1918_plot.png",
+            "timestamp": "20240820_1918",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:18"
+        },
+        {
+            "imageName": "20240820_1920_plot.png",
+            "timestamp": "20240820_1920",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:20"
+        },
+        {
+            "imageName": "20240820_1922_plot.png",
+            "timestamp": "20240820_1922",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:22"
+        },
+        {
+            "imageName": "20240820_1924_plot.png",
+            "timestamp": "20240820_1924",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:24"
+        },
+        {
+            "imageName": "20240820_1926_plot.png",
+            "timestamp": "20240820_1926",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:26"
+        },
+        {
+            "imageName": "20240820_1928_plot.png",
+            "timestamp": "20240820_1928",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:28"
+        },
+        {
+            "imageName": "20240820_1930_plot.png",
+            "timestamp": "20240820_1930",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:30"
+        },
+        {
+            "imageName": "20240820_1932_plot.png",
+            "timestamp": "20240820_1932",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:32"
+        },
+        {
+            "imageName": "20240820_1934_plot.png",
+            "timestamp": "20240820_1934",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:34"
+        },
+        {
+            "imageName": "20240820_1936_plot.png",
+            "timestamp": "20240820_1936",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:36"
+        },
+        {
+            "imageName": "20240820_1938_plot.png",
+            "timestamp": "20240820_1938",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:38"
+        },
+        {
+            "imageName": "20240820_1940_plot.png",
+            "timestamp": "20240820_1940",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:40"
+        },
+        {
+            "imageName": "20240820_1942_plot.png",
+            "timestamp": "20240820_1942",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:42"
+        },
+        {
+            "imageName": "20240820_1944_plot.png",
+            "timestamp": "20240820_1944",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:44"
+        },
+        {
+            "imageName": "20240820_1946_plot.png",
+            "timestamp": "20240820_1946",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:46"
+        },
+        {
+            "imageName": "20240820_1948_plot.png",
+            "timestamp": "20240820_1948",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:48"
+        },
+        {
+            "imageName": "20240820_1950_plot.png",
+            "timestamp": "20240820_1950",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:50"
+        },
+        {
+            "imageName": "20240820_1952_plot.png",
+            "timestamp": "20240820_1952",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:52"
+        },
+        {
+            "imageName": "20240820_1954_plot.png",
+            "timestamp": "20240820_1954",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:54"
+        },
+        {
+            "imageName": "20240820_1956_plot.png",
+            "timestamp": "20240820_1956",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:56"
+        },
+        {
+            "imageName": "20240820_1958_plot.png",
+            "timestamp": "20240820_1958",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "19:58"
+        },
+        {
+            "imageName": "20240820_2000_plot.png",
+            "timestamp": "20240820_2000",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:00"
+        },
+        {
+            "imageName": "20240820_2002_plot.png",
+            "timestamp": "20240820_2002",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:02"
+        },
+        {
+            "imageName": "20240820_2004_plot.png",
+            "timestamp": "20240820_2004",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:04"
+        },
+        {
+            "imageName": "20240820_2006_plot.png",
+            "timestamp": "20240820_2006",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:06"
+        },
+        {
+            "imageName": "20240820_2008_plot.png",
+            "timestamp": "20240820_2008",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:08"
+        },
+        {
+            "imageName": "20240820_2010_plot.png",
+            "timestamp": "20240820_2010",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:10"
+        },
+        {
+            "imageName": "20240820_2012_plot.png",
+            "timestamp": "20240820_2012",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:12"
+        },
+        {
+            "imageName": "20240820_2014_plot.png",
+            "timestamp": "20240820_2014",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:14"
+        },
+        {
+            "imageName": "20240820_2016_plot.png",
+            "timestamp": "20240820_2016",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:16"
+        },
+        {
+            "imageName": "20240820_2018_plot.png",
+            "timestamp": "20240820_2018",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:18"
+        },
+        {
+            "imageName": "20240820_2020_plot.png",
+            "timestamp": "20240820_2020",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:20"
+        },
+        {
+            "imageName": "20240820_2024_plot.png",
+            "timestamp": "20240820_2024",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:24"
+        },
+        {
+            "imageName": "20240820_2026_plot.png",
+            "timestamp": "20240820_2026",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:26"
+        },
+        {
+            "imageName": "20240820_2028_plot.png",
+            "timestamp": "20240820_2028",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:28"
+        },
+        {
+            "imageName": "20240820_2030_plot.png",
+            "timestamp": "20240820_2030",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:30"
+        },
+        {
+            "imageName": "20240820_2032_plot.png",
+            "timestamp": "20240820_2032",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:32"
+        },
+        {
+            "imageName": "20240820_2034_plot.png",
+            "timestamp": "20240820_2034",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:34"
+        },
+        {
+            "imageName": "20240820_2036_plot.png",
+            "timestamp": "20240820_2036",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:36"
+        },
+        {
+            "imageName": "20240820_2038_plot.png",
+            "timestamp": "20240820_2038",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:38"
+        },
+        {
+            "imageName": "20240820_2040_plot.png",
+            "timestamp": "20240820_2040",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:40"
+        },
+        {
+            "imageName": "20240820_2042_plot.png",
+            "timestamp": "20240820_2042",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:42"
+        },
+        {
+            "imageName": "20240820_2044_plot.png",
+            "timestamp": "20240820_2044",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:44"
+        },
+        {
+            "imageName": "20240820_2046_plot.png",
+            "timestamp": "20240820_2046",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:46"
+        },
+        {
+            "imageName": "20240820_2048_plot.png",
+            "timestamp": "20240820_2048",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:48"
+        },
+        {
+            "imageName": "20240820_2050_plot.png",
+            "timestamp": "20240820_2050",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:50"
+        },
+        {
+            "imageName": "20240820_2052_plot.png",
+            "timestamp": "20240820_2052",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:52"
+        },
+        {
+            "imageName": "20240820_2054_plot.png",
+            "timestamp": "20240820_2054",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:54"
+        },
+        {
+            "imageName": "20240820_2056_plot.png",
+            "timestamp": "20240820_2056",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:56"
+        },
+        {
+            "imageName": "20240820_2058_plot.png",
+            "timestamp": "20240820_2058",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "20:58"
+        },
+        {
+            "imageName": "20240820_2100_plot.png",
+            "timestamp": "20240820_2100",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:00"
+        },
+        {
+            "imageName": "20240820_2102_plot.png",
+            "timestamp": "20240820_2102",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:02"
+        },
+        {
+            "imageName": "20240820_2104_plot.png",
+            "timestamp": "20240820_2104",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:04"
+        },
+        {
+            "imageName": "20240820_2106_plot.png",
+            "timestamp": "20240820_2106",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:06"
+        },
+        {
+            "imageName": "20240820_2108_plot.png",
+            "timestamp": "20240820_2108",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:08"
+        },
+        {
+            "imageName": "20240820_2110_plot.png",
+            "timestamp": "20240820_2110",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:10"
+        },
+        {
+            "imageName": "20240820_2112_plot.png",
+            "timestamp": "20240820_2112",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:12"
+        },
+        {
+            "imageName": "20240820_2114_plot.png",
+            "timestamp": "20240820_2114",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:14"
+        },
+        {
+            "imageName": "20240820_2116_plot.png",
+            "timestamp": "20240820_2116",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:16"
+        },
+        {
+            "imageName": "20240820_2118_plot.png",
+            "timestamp": "20240820_2118",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:18"
+        },
+        {
+            "imageName": "20240820_2120_plot.png",
+            "timestamp": "20240820_2120",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:20"
+        },
+        {
+            "imageName": "20240820_2122_plot.png",
+            "timestamp": "20240820_2122",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:22"
+        },
+        {
+            "imageName": "20240820_2124_plot.png",
+            "timestamp": "20240820_2124",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:24"
+        },
+        {
+            "imageName": "20240820_2126_plot.png",
+            "timestamp": "20240820_2126",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:26"
+        },
+        {
+            "imageName": "20240820_2128_plot.png",
+            "timestamp": "20240820_2128",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:28"
+        },
+        {
+            "imageName": "20240820_2130_plot.png",
+            "timestamp": "20240820_2130",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:30"
+        },
+        {
+            "imageName": "20240820_2134_plot.png",
+            "timestamp": "20240820_2134",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:34"
+        },
+        {
+            "imageName": "20240820_2136_plot.png",
+            "timestamp": "20240820_2136",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:36"
+        },
+        {
+            "imageName": "20240820_2138_plot.png",
+            "timestamp": "20240820_2138",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:38"
+        },
+        {
+            "imageName": "20240820_2140_plot.png",
+            "timestamp": "20240820_2140",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:40"
+        },
+        {
+            "imageName": "20240820_2142_plot.png",
+            "timestamp": "20240820_2142",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:42"
+        },
+        {
+            "imageName": "20240820_2144_plot.png",
+            "timestamp": "20240820_2144",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:44"
+        },
+        {
+            "imageName": "20240820_2146_plot.png",
+            "timestamp": "20240820_2146",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:46"
+        },
+        {
+            "imageName": "20240820_2148_plot.png",
+            "timestamp": "20240820_2148",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:48"
+        },
+        {
+            "imageName": "20240820_2150_plot.png",
+            "timestamp": "20240820_2150",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:50"
+        },
+        {
+            "imageName": "20240820_2152_plot.png",
+            "timestamp": "20240820_2152",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:52"
+        },
+        {
+            "imageName": "20240820_2154_plot.png",
+            "timestamp": "20240820_2154",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:54"
+        },
+        {
+            "imageName": "20240820_2156_plot.png",
+            "timestamp": "20240820_2156",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:56"
+        },
+        {
+            "imageName": "20240820_2158_plot.png",
+            "timestamp": "20240820_2158",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "21:58"
+        },
+        {
+            "imageName": "20240820_2200_plot.png",
+            "timestamp": "20240820_2200",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:00"
+        },
+        {
+            "imageName": "20240820_2202_plot.png",
+            "timestamp": "20240820_2202",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:02"
+        },
+        {
+            "imageName": "20240820_2204_plot.png",
+            "timestamp": "20240820_2204",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:04"
+        },
+        {
+            "imageName": "20240820_2206_plot.png",
+            "timestamp": "20240820_2206",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:06"
+        },
+        {
+            "imageName": "20240820_2208_plot.png",
+            "timestamp": "20240820_2208",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:08"
+        },
+        {
+            "imageName": "20240820_2210_plot.png",
+            "timestamp": "20240820_2210",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:10"
+        },
+        {
+            "imageName": "20240820_2212_plot.png",
+            "timestamp": "20240820_2212",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:12"
+        },
+        {
+            "imageName": "20240820_2214_plot.png",
+            "timestamp": "20240820_2214",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:14"
+        },
+        {
+            "imageName": "20240820_2216_plot.png",
+            "timestamp": "20240820_2216",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:16"
+        },
+        {
+            "imageName": "20240820_2218_plot.png",
+            "timestamp": "20240820_2218",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:18"
+        },
+        {
+            "imageName": "20240820_2220_plot.png",
+            "timestamp": "20240820_2220",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:20"
+        },
+        {
+            "imageName": "20240820_2222_plot.png",
+            "timestamp": "20240820_2222",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:22"
+        },
+        {
+            "imageName": "20240820_2224_plot.png",
+            "timestamp": "20240820_2224",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:24"
+        },
+        {
+            "imageName": "20240820_2226_plot.png",
+            "timestamp": "20240820_2226",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:26"
+        },
+        {
+            "imageName": "20240820_2230_plot.png",
+            "timestamp": "20240820_2230",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:30"
+        },
+        {
+            "imageName": "20240820_2232_plot.png",
+            "timestamp": "20240820_2232",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:32"
+        },
+        {
+            "imageName": "20240820_2234_plot.png",
+            "timestamp": "20240820_2234",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:34"
+        },
+        {
+            "imageName": "20240820_2236_plot.png",
+            "timestamp": "20240820_2236",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:36"
+        },
+        {
+            "imageName": "20240820_2238_plot.png",
+            "timestamp": "20240820_2238",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:38"
+        },
+        {
+            "imageName": "20240820_2240_plot.png",
+            "timestamp": "20240820_2240",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:40"
+        },
+        {
+            "imageName": "20240820_2242_plot.png",
+            "timestamp": "20240820_2242",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:42"
+        },
+        {
+            "imageName": "20240820_2244_plot.png",
+            "timestamp": "20240820_2244",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:44"
+        },
+        {
+            "imageName": "20240820_2246_plot.png",
+            "timestamp": "20240820_2246",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:46"
+        },
+        {
+            "imageName": "20240820_2248_plot.png",
+            "timestamp": "20240820_2248",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:48"
+        },
+        {
+            "imageName": "20240820_2250_plot.png",
+            "timestamp": "20240820_2250",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:50"
+        },
+        {
+            "imageName": "20240820_2252_plot.png",
+            "timestamp": "20240820_2252",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:52"
+        },
+        {
+            "imageName": "20240820_2254_plot.png",
+            "timestamp": "20240820_2254",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:54"
+        },
+        {
+            "imageName": "20240820_2258_plot.png",
+            "timestamp": "20240820_2258",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "22:58"
+        },
+        {
+            "imageName": "20240820_2300_plot.png",
+            "timestamp": "20240820_2300",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:00"
+        },
+        {
+            "imageName": "20240820_2302_plot.png",
+            "timestamp": "20240820_2302",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:02"
+        },
+        {
+            "imageName": "20240820_2304_plot.png",
+            "timestamp": "20240820_2304",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:04"
+        },
+        {
+            "imageName": "20240820_2306_plot.png",
+            "timestamp": "20240820_2306",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:06"
+        },
+        {
+            "imageName": "20240820_2308_plot.png",
+            "timestamp": "20240820_2308",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:08"
+        },
+        {
+            "imageName": "20240820_2310_plot.png",
+            "timestamp": "20240820_2310",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:10"
+        },
+        {
+            "imageName": "20240820_2312_plot.png",
+            "timestamp": "20240820_2312",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:12"
+        },
+        {
+            "imageName": "20240820_2314_plot.png",
+            "timestamp": "20240820_2314",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:14"
+        },
+        {
+            "imageName": "20240820_2316_plot.png",
+            "timestamp": "20240820_2316",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:16"
+        },
+        {
+            "imageName": "20240820_2318_plot.png",
+            "timestamp": "20240820_2318",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:18"
+        },
+        {
+            "imageName": "20240820_2320_plot.png",
+            "timestamp": "20240820_2320",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:20"
+        },
+        {
+            "imageName": "20240820_2322_plot.png",
+            "timestamp": "20240820_2322",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:22"
+        },
+        {
+            "imageName": "20240820_2326_plot.png",
+            "timestamp": "20240820_2326",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:26"
+        },
+        {
+            "imageName": "20240820_2328_plot.png",
+            "timestamp": "20240820_2328",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:28"
+        },
+        {
+            "imageName": "20240820_2330_plot.png",
+            "timestamp": "20240820_2330",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:30"
+        },
+        {
+            "imageName": "20240820_2332_plot.png",
+            "timestamp": "20240820_2332",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:32"
+        },
+        {
+            "imageName": "20240820_2334_plot.png",
+            "timestamp": "20240820_2334",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:34"
+        },
+        {
+            "imageName": "20240820_2336_plot.png",
+            "timestamp": "20240820_2336",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:36"
+        },
+        {
+            "imageName": "20240820_2340_plot.png",
+            "timestamp": "20240820_2340",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:40"
+        },
+        {
+            "imageName": "20240820_2342_plot.png",
+            "timestamp": "20240820_2342",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:42"
+        },
+        {
+            "imageName": "20240820_2344_plot.png",
+            "timestamp": "20240820_2344",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:44"
+        },
+        {
+            "imageName": "20240820_2346_plot.png",
+            "timestamp": "20240820_2346",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:46"
+        },
+        {
+            "imageName": "20240820_2348_plot.png",
+            "timestamp": "20240820_2348",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:48"
+        },
+        {
+            "imageName": "20240820_2350_plot.png",
+            "timestamp": "20240820_2350",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:50"
+        },
+        {
+            "imageName": "20240820_2352_plot.png",
+            "timestamp": "20240820_2352",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:52"
+        },
+        {
+            "imageName": "20240820_2354_plot.png",
+            "timestamp": "20240820_2354",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:54"
+        },
+        {
+            "imageName": "20240820_2356_plot.png",
+            "timestamp": "20240820_2356",
+            "day": "Tue",
+            "date": "20-Aug-2024",
+            "time": "23:56"
+        }
+    ]
+}

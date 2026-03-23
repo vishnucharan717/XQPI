@@ -1,0 +1,222 @@
+{
+    "product": "QPE 15 min Accum Precip",
+    "steps": [
+        {
+            "imageName": "20240131_2000_plot.png",
+            "timestamp": "20240131_2000",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:00"
+        },
+        {
+            "imageName": "20240131_2002_plot.png",
+            "timestamp": "20240131_2002",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:02"
+        },
+        {
+            "imageName": "20240131_2004_plot.png",
+            "timestamp": "20240131_2004",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:04"
+        },
+        {
+            "imageName": "20240131_2006_plot.png",
+            "timestamp": "20240131_2006",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:06"
+        },
+        {
+            "imageName": "20240131_2008_plot.png",
+            "timestamp": "20240131_2008",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:08"
+        },
+        {
+            "imageName": "20240131_2010_plot.png",
+            "timestamp": "20240131_2010",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:10"
+        },
+        {
+            "imageName": "20240131_2012_plot.png",
+            "timestamp": "20240131_2012",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:12"
+        },
+        {
+            "imageName": "20240131_2014_plot.png",
+            "timestamp": "20240131_2014",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:14"
+        },
+        {
+            "imageName": "20240131_2016_plot.png",
+            "timestamp": "20240131_2016",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:16"
+        },
+        {
+            "imageName": "20240131_2018_plot.png",
+            "timestamp": "20240131_2018",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:18"
+        },
+        {
+            "imageName": "20240131_2020_plot.png",
+            "timestamp": "20240131_2020",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:20"
+        },
+        {
+            "imageName": "20240131_2022_plot.png",
+            "timestamp": "20240131_2022",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:22"
+        },
+        {
+            "imageName": "20240131_2024_plot.png",
+            "timestamp": "20240131_2024",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:24"
+        },
+        {
+            "imageName": "20240131_2026_plot.png",
+            "timestamp": "20240131_2026",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:26"
+        },
+        {
+            "imageName": "20240131_2028_plot.png",
+            "timestamp": "20240131_2028",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:28"
+        },
+        {
+            "imageName": "20240131_2030_plot.png",
+            "timestamp": "20240131_2030",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:30"
+        },
+        {
+            "imageName": "20240131_2032_plot.png",
+            "timestamp": "20240131_2032",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:32"
+        },
+        {
+            "imageName": "20240131_2034_plot.png",
+            "timestamp": "20240131_2034",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:34"
+        },
+        {
+            "imageName": "20240131_2036_plot.png",
+            "timestamp": "20240131_2036",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:36"
+        },
+        {
+            "imageName": "20240131_2038_plot.png",
+            "timestamp": "20240131_2038",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:38"
+        },
+        {
+            "imageName": "20240131_2040_plot.png",
+            "timestamp": "20240131_2040",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:40"
+        },
+        {
+            "imageName": "20240131_2042_plot.png",
+            "timestamp": "20240131_2042",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:42"
+        },
+        {
+            "imageName": "20240131_2044_plot.png",
+            "timestamp": "20240131_2044",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:44"
+        },
+        {
+            "imageName": "20240131_2046_plot.png",
+            "timestamp": "20240131_2046",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:46"
+        },
+        {
+            "imageName": "20240131_2048_plot.png",
+            "timestamp": "20240131_2048",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:48"
+        },
+        {
+            "imageName": "20240131_2050_plot.png",
+            "timestamp": "20240131_2050",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:50"
+        },
+        {
+            "imageName": "20240131_2052_plot.png",
+            "timestamp": "20240131_2052",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:52"
+        },
+        {
+            "imageName": "20240131_2054_plot.png",
+            "timestamp": "20240131_2054",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:54"
+        },
+        {
+            "imageName": "20240131_2056_plot.png",
+            "timestamp": "20240131_2056",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:56"
+        },
+        {
+            "imageName": "20240131_2058_plot.png",
+            "timestamp": "20240131_2058",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "20:58"
+        },
+        {
+            "imageName": "20240131_2100_plot.png",
+            "timestamp": "20240131_2100",
+            "day": "Wed",
+            "date": "31-Jan-2024",
+            "time": "21:00"
+        }
+    ]
+}

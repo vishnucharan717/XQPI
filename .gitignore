@@ -1,0 +1,18 @@
+#Ignore the virtual env
+cira-aqpi/
+server/manage.py
+server/server/__init__.py
+server/server/__pycache__
+server/server/asgi.py
+server/server/wsgi.py
+server/server/urls.py
+server/server_app/__pycache__
+server/server_app/input/
+server/server_app/output/
+server/server_app/migrations/
+server/server_app/templates/
+server/server_app/__init__.py
+server/server_app/tests.py
+
+
+

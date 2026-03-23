@@ -1,0 +1,80 @@
+
+.full-height-map {
+    height: 100vh;
+  }
+
+#deckgl-wrapper {
+    left: 300px !important;
+}
+
+.controls {
+    background-color: rgb(33 33 33 / 50%);
+    border-radius: 4px;
+    /* bg-[#21212180] */
+}
+
+.MuiSpeedDialAction-fab {
+    width: 45px !important;
+    height: 45px !important;
+    background-color: #1e4d2b4a !important;
+    margin-right: 0.4rem !important;
+    margin-left: 0.4rem !important;
+    margin-top: 0.1rem !important;
+}
+
+.MuiSpeedDial-actions {
+    background-color: #ffffff;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-radius: 2rem;
+    border:1px solid #eceff1;
+    box-shadow: 0 20px 25px -5px rgba(96,125,139,.1) ,0 8px 10px -6px rgba(96,125,139,.1);
+    margin-top: 0rem !important;
+    padding-top: 0.2rem !important;
+}
+.MuiSpeedDial-actionsClosed {
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+
+.MuiFab-primary{
+    background-color: #1e4d2b !important;
+}
+
+/* @media (min-width: 600px) {
+    
+} */
+
+@media (max-width: 540px) {
+    .MuiSpeedDialAction-fab {
+        width: 35px !important;
+        height: 35px !important;
+        background-color: #1e4d2b4a !important;
+        margin-right: 0.2rem !important;
+        margin-left: 0.2rem !important;
+        margin-top: 0.05rem !important;
+    }
+
+    .MuiSpeedDial-actions {
+        background-color: #ffffff;
+        border-bottom-left-radius: 1.5rem;
+        border-bottom-right-radius: 1.5rem;
+        border-radius: 1.5rem;
+        border:1px solid #eceff1;
+        box-shadow: 0 15px 20px -5px rgba(96,125,139,.1) ,0 6px 8px -6px rgba(96,125,139,.1);
+        margin-top: 0rem !important;
+        padding-top: 0.15rem !important;
+    }
+    .MuiSpeedDial-actionsClosed {
+        background: none;
+        border: none;
+        box-shadow: none;
+    }
+
+    .MuiFab-primary{
+        background-color: #1e4d2b !important;
+        width: 33px !important;
+        height: 25px !important;
+    }
+}

@@ -1,0 +1,5 @@
+LOG_DIR = './Logs/'
+DB_NAME = 'cira-aqpi'
+DB_USER = 'postgres'
+DB_PASSWORD = 'postgres'
+DB_HOST = 'localhost'

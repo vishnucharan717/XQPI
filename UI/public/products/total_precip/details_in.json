@@ -1,0 +1,461 @@
+{
+    "product": "Total Accumulation",
+    "time": "2024-02-01T04:00:00.000000000",
+    "steps": [
+        {
+            "imageName": "C_hrrr_accum_step0.png",
+            "timestamp": "2024-02-01T04:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "04:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step1.png",
+            "timestamp": "2024-02-01T05:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "05:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step2.png",
+            "timestamp": "2024-02-01T06:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "06:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step3.png",
+            "timestamp": "2024-02-01T07:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "07:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step4.png",
+            "timestamp": "2024-02-01T08:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "08:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step5.png",
+            "timestamp": "2024-02-01T09:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "09:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step6.png",
+            "timestamp": "2024-02-01T10:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "10:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step7.png",
+            "timestamp": "2024-02-01T11:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "11:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step8.png",
+            "timestamp": "2024-02-01T12:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "12:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step9.png",
+            "timestamp": "2024-02-01T13:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "13:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step10.png",
+            "timestamp": "2024-02-01T14:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "14:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step11.png",
+            "timestamp": "2024-02-01T15:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "15:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step12.png",
+            "timestamp": "2024-02-01T16:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "16:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step13.png",
+            "timestamp": "2024-02-01T17:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "17:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step14.png",
+            "timestamp": "2024-02-01T18:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "18:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step15.png",
+            "timestamp": "2024-02-01T19:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "19:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step16.png",
+            "timestamp": "2024-02-01T20:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "20:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step17.png",
+            "timestamp": "2024-02-01T21:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "21:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step18.png",
+            "timestamp": "2024-02-01T22:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "22:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step19.png",
+            "timestamp": "2024-02-01T23:00:00.000000000",
+            "day": "Thu",
+            "date": "01-Feb-2024",
+            "time": "23:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step20.png",
+            "timestamp": "2024-02-02T00:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "00:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step21.png",
+            "timestamp": "2024-02-02T01:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "01:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step22.png",
+            "timestamp": "2024-02-02T02:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "02:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step23.png",
+            "timestamp": "2024-02-02T03:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "03:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step24.png",
+            "timestamp": "2024-02-02T04:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "04:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step25.png",
+            "timestamp": "2024-02-02T05:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "05:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step26.png",
+            "timestamp": "2024-02-02T06:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "06:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step27.png",
+            "timestamp": "2024-02-02T07:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "07:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step28.png",
+            "timestamp": "2024-02-02T08:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "08:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step29.png",
+            "timestamp": "2024-02-02T09:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "09:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step30.png",
+            "timestamp": "2024-02-02T10:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "10:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step31.png",
+            "timestamp": "2024-02-02T11:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "11:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step32.png",
+            "timestamp": "2024-02-02T12:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "12:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step33.png",
+            "timestamp": "2024-02-02T13:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "13:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step34.png",
+            "timestamp": "2024-02-02T14:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "14:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step35.png",
+            "timestamp": "2024-02-02T15:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "15:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step36.png",
+            "timestamp": "2024-02-02T16:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "16:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step37.png",
+            "timestamp": "2024-02-02T17:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "17:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step38.png",
+            "timestamp": "2024-02-02T18:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "18:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step39.png",
+            "timestamp": "2024-02-02T19:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "19:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step40.png",
+            "timestamp": "2024-02-02T20:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "20:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step41.png",
+            "timestamp": "2024-02-02T21:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "21:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step42.png",
+            "timestamp": "2024-02-02T22:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "22:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step43.png",
+            "timestamp": "2024-02-02T23:00:00.000000000",
+            "day": "Fri",
+            "date": "02-Feb-2024",
+            "time": "23:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step44.png",
+            "timestamp": "2024-02-03T00:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "00:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step45.png",
+            "timestamp": "2024-02-03T01:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "01:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step46.png",
+            "timestamp": "2024-02-03T02:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "02:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step47.png",
+            "timestamp": "2024-02-03T03:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "03:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step48.png",
+            "timestamp": "2024-02-03T04:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "04:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step49.png",
+            "timestamp": "2024-02-03T05:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "05:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step50.png",
+            "timestamp": "2024-02-03T06:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "06:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step51.png",
+            "timestamp": "2024-02-03T07:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "07:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step52.png",
+            "timestamp": "2024-02-03T08:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "08:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step53.png",
+            "timestamp": "2024-02-03T09:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "09:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step54.png",
+            "timestamp": "2024-02-03T10:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "10:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step55.png",
+            "timestamp": "2024-02-03T11:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "11:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step56.png",
+            "timestamp": "2024-02-03T12:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "12:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step57.png",
+            "timestamp": "2024-02-03T13:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "13:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step58.png",
+            "timestamp": "2024-02-03T14:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "14:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step59.png",
+            "timestamp": "2024-02-03T15:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "15:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step60.png",
+            "timestamp": "2024-02-03T16:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "16:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step61.png",
+            "timestamp": "2024-02-03T17:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "17:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step62.png",
+            "timestamp": "2024-02-03T18:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "18:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step63.png",
+            "timestamp": "2024-02-03T19:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "19:00:00"
+        },
+        {
+            "imageName": "C_hrrr_accum_step64.png",
+            "timestamp": "2024-02-03T20:00:00.000000000",
+            "day": "Sat",
+            "date": "03-Feb-2024",
+            "time": "20:00:00"
+        }
+    ]
+}
