@@ -58,11 +58,9 @@ export default function map({ onUnitChange, images, currentIndex, prod_details, 
     const [layers, setLayers] = useState([]);
     const [isSetup, setIsSetup] = useState(false);
 
-    const [streamLayers, setStreamLayers] = useState<VectorLayer[]>([]);
-
     const rainfall_units = [products.radarData.qpe_15min, products.radarData.qpe_1hr, products.radarData.pr,
     products.forecast.pr, products.forecast.tp]
-    const cosmos_products = [products.cosmos.water_level, products.cosmos.water_depth, products.cosmos.max_water_level, products.cosmos.max_water_depth]
+    const imageExtent:any = [-124.005, 36.500, -121.195, 39.505];
 
 
     let baseLayer: any = new TileLayer({
@@ -92,8 +90,6 @@ export default function map({ onUnitChange, images, currentIndex, prod_details, 
             //         id: `geoTiffLayer_${index}`, // Assign an ID for easier identification
             //     });
             // }));
-            const imageExtent:any = cosmos_products.includes(prod_details['id']) ? [-122.64270782470703, 37.33298492390895, -121.85090639124974, 38.3444389345703] : [-124.005, 36.500, -121.195, 39.505];
-
             const preloaded = await Promise.all(images.map(async (url, index) => {
                 return new ImageStatic({
                     url: images[index], // Image path
@@ -101,7 +97,6 @@ export default function map({ onUnitChange, images, currentIndex, prod_details, 
                     //imageExtent: [-124.005, 36.500, -121.195, 39.505], // Extent from your world file
                     //imageExtent: [-122.64181, 37.333286, -121.850006, 38.34174]
                     //interpolate: true,
-                    //cosmos extent
                     imageExtent:imageExtent //[-122.64270782470703, 37.33298492390895, -121.85090639124974, 38.3444389345703]
                 })
             }));            
@@ -150,7 +145,6 @@ export default function map({ onUnitChange, images, currentIndex, prod_details, 
             view: new View({
                 center: [-13610058.982783515, 4561655.27023881],
                 //center: [-122.245908, 37.837513],
-                //cosmos center
                 //center: [-122.25, 37.84],
                 zoom: 7.5,
             }),
@@ -170,146 +164,6 @@ export default function map({ onUnitChange, images, currentIndex, prod_details, 
             }
         }
     }, [currentIndex, images, preloadedImages]);
-    
-
-    useEffect(() => {
-        if (prod_details.id === 'stream_reach') {
-            // URLs to your GeoJSON files
-            const shp1Url = '/geojson/flowlines.geojson'; // replace with your file paths
-            const shp2Url = '/geojson/watersheds.geojson';
-    
-            const loadShpLayers = async () => {
-                const shp1 = await fetch(shp1Url).then(res => res.json());
-                const shp2 = await fetch(shp2Url).then(res => res.json());
-    
-                const layer1 = new VectorLayer({
-                    source: new VectorSource({
-                        features: new GeoJSON().readFeatures(shp1, {
-                            featureProjection: 'EPSG:3857',
-                        }),
-                    }),
-                    style: new Style({
-                        stroke: new Stroke({
-                            color: '#FFA500',
-                            width: 1,
-                        }),
-                    }),
-                    zIndex: 10,
-                });
-    
-                const layer2 = new VectorLayer({
-                    source: new VectorSource({
-                        features: new GeoJSON().readFeatures(shp2, {
-                            featureProjection: 'EPSG:3857',
-                        }),
-                    }),
-                    style: new Style({
-                        stroke: new Stroke({
-                            color: '#00BFFF',
-                            width: 3,
-                        }),
-                    }),
-                    zIndex: 11,
-                });
-    
-                // Remove old stream layers if any
-                streamLayers.forEach(l => mapRef.current.removeLayer(l));
-    
-                // Add new layers
-                mapRef.current.addLayer(layer1);
-                mapRef.current.addLayer(layer2);
-    
-                setStreamLayers([layer1, layer2]);
-            };
-    
-            loadShpLayers();
-        } else {
-            // Remove stream layers when switching away
-            streamLayers.forEach(l => mapRef.current.removeLayer(l));
-            setStreamLayers([]);
-        }
-    }, [prod_details]);
-    
-    useEffect(() => {
-        if (prod_details.id !== 'stream_reach') {
-            // Remove site layer if it exists
-            mapRef.current.getLayers().forEach((l: any) => {
-                if (l.get('id') === 'siteLayer') {
-                    mapRef.current.removeLayer(l);
-                }
-            });
-            return; // skip loading CSV
-        }
-    
-        const csvUrl = "/data/stream_data.csv";
-    
-        fetch(csvUrl)
-            .then(res => res.text())
-            .then(text => {
-                Papa.parse(text, {
-                    header: true,
-                    complete: (result: any) => {
-                        const features = result.data
-                            .filter((row: any) => row.LatSite && row.LonSite)
-                            .map((row: any) => {
-                                const feature = new Feature({
-                                    geometry: new Point(fromLonLat([parseFloat(row.LonSite), parseFloat(row.LatSite)])),
-                                    COMID: row.COMID,
-                                });
-    
-                                feature.setStyle(
-                                    new Style({
-                                        image: new CircleStyle({
-                                            radius: 3,
-                                            fill: new Fill({ color: "#000000" }),
-                                            stroke: new Stroke({ color: "#FFFFFF", width: 2 }),
-                                        }),
-                                    })
-                                );
-    
-                                return feature;
-                            });
-    
-                        const siteLayer = new VectorLayer({
-                            source: new VectorSource({ features }),
-                            zIndex: 100,
-                        });
-    
-                        siteLayer.set('id', 'siteLayer');
-    
-                        // Remove old site layer if exists
-                        mapRef.current.getLayers().forEach((l: any) => {
-                            if (l.get('id') === 'siteLayer') {
-                                mapRef.current.removeLayer(l);
-                            }
-                        });
-    
-                        mapRef.current.addLayer(siteLayer);
-    
-                        // Tooltip
-                        const tooltip = document.createElement("div");
-                        tooltip.className = "tooltip bg-white px-2 py-1 rounded shadow text-sm";
-                        const overlay = new Overlay({
-                            element: tooltip,
-                            offset: [10, 0],
-                            positioning: "center-left",
-                        });
-                        mapRef.current.addOverlay(overlay);
-    
-                        mapRef.current.on("pointermove", (evt: any) => {
-                            const feature = mapRef.current.forEachFeatureAtPixel(evt.pixel, f => f);
-                            if (feature && feature.get("COMID")) {
-                                tooltip.innerHTML = feature.get("COMID");
-                                overlay.setPosition(evt.coordinate);
-                                tooltip.style.display = "block";
-                            } else {
-                                tooltip.style.display = "none";
-                            }
-                        });
-                    },
-                });
-            });
-    }, [prod_details.id]); // runs when the product changes
     
       
 

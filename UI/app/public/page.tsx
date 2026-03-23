@@ -169,53 +169,6 @@ export default function Public() {
             setUnit(productImageDir.atmosphericForecast.temp.unit.F)
             currUnit.current = productImageDir.atmosphericForecast.temp.unit.F;
             setProductInfo(productImageDir.atmosphericForecast.temp.info);
-        } else if (product == 'water_level') {
-            //window.open('https://sfbay-dist.engr.colostate.edu', '_blank');
-            setproductPath(productImageDir.cosmos.water_level);
-            setColorbar(productImageDir.cosmos.water_level.colorbar.ft);
-            setUnit(productImageDir.cosmos.water_level.unit.ft)
-            currUnit.current = productImageDir.cosmos.water_level.unit.ft;
-            setProductInfo(productImageDir.cosmos.water_level.info);
-        } else if (product == 'water_depth') {
-            setproductPath(productImageDir.cosmos.water_depth);
-            setColorbar(productImageDir.cosmos.water_depth.colorbar.ft);
-            setUnit(productImageDir.cosmos.water_depth.unit.ft)
-            currUnit.current = productImageDir.cosmos.water_depth.unit.ft;
-            setProductInfo(productImageDir.cosmos.water_depth.info);
-        } else if (product == 'max_water_level') {
-            setproductPath(productImageDir.cosmos.max_water_level);
-            setColorbar(productImageDir.cosmos.max_water_level.colorbar.ft);
-            setUnit(productImageDir.cosmos.max_water_level.unit.ft)
-            currUnit.current = productImageDir.cosmos.max_water_level.unit.ft;
-            setProductInfo(productImageDir.cosmos.max_water_level.info);
-        } else if (product == 'max_water_depth') {
-            setproductPath(productImageDir.cosmos.max_water_depth);
-            setColorbar(productImageDir.cosmos.max_water_depth.colorbar.ft);
-            setUnit(productImageDir.cosmos.max_water_depth.unit.ft)
-            currUnit.current = productImageDir.cosmos.max_water_depth.unit.ft;
-            setProductInfo(productImageDir.cosmos.max_water_depth.info);
-            window.open('https://sfbay-dist.engr.colostate.edu', '_blank');
-        } else if (product == 'stream_reach') {
-            setproductPath({
-                id: 'stream_reach',
-                name: 'Stream Reach',
-                images: '',
-                details: '',
-                colorbar: '', 
-                unit: ''
-            });
-            setImages([]); // this now triggers Map.tsx to clear the layer
-            setCurrentIndex(0); 
-            setColorbar('');
-            setUnit('');
-            setProductInfo('Stream reach product');
-            SetProdDetails({
-                id: 'stream_reach',
-                name: 'Stream Reach',
-                day: '',
-                date: '',
-                time: ''
-            });
         }
         
     }

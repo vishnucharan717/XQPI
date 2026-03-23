@@ -40,12 +40,15 @@ export default function Header() {
     return (
         <header className="sticky top-0 z-10 h-max max-w-full bg-theme_green">
             <nav className="mx-auto ml-0 flex max-w-full items-center justify-between p-3 lg:px-8" aria-label="Global">
-                <div className="flex lg:flex-1 md:flex-1 md:mr-4">
+                <div className="flex lg:flex-1 md:flex-1 md:mr-4 items-center gap-3">
                     <a href="#" className="-m-1.5 p-1.5">
                         <span className="sr-only">Your Company</span>
                         <img className="h-12 w-auto" src="/CSU-Signature-Stacked-rev.png" alt="" />
                         {/* <img className="lg:hidden md:hidden h-12 w-auto" src="/CSU-Symbol.png" alt="" /> */}
                     </a>
+                    <div className="hidden sm:block">
+                        <span className="text-white font-bold text-xl tracking-[0.18em] leading-none">XQPI</span>
+                    </div>
                 </div>
                 <div className="flex lg:hidden md:hidden">
                     <button
@@ -82,13 +85,14 @@ export default function Header() {
                 <div className="fixed inset-0 z-10" />
                 <DialogPanel className="fixed inset-y-0 right-0 z-10 w-screen overflow-y-none bg-white px-6 pr-0 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
                     <div className="flex items-center justify-between -ml-6 -mt-6 w-auto h-[4.5rem] bg-theme_green">
-                        <Link href="#" className="-m-1.5 ml-4 p-1.5">
+                        <Link href="#" className="-m-1.5 ml-4 p-1.5 flex items-center gap-3">
                             <span className="sr-only">Your Company</span>
                             <img
                                 className="h-12 w-auto"
                                 src="/CSU-Symbol.png"
                                 alt=""
                             />
+                            <span className="text-white font-bold text-lg tracking-widest leading-none">XQPI</span>
                         </Link>
                         <button
                             type="button"

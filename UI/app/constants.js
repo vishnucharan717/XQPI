@@ -54,8 +54,7 @@ const units = {
     mm_per_hr: 'mm/hr',
     dbz: 'dbz',
     F: 'F',
-    DEG: '°C',
-    ft: 'ft'
+    DEG: '°C'
 }
 
 const products = {
@@ -70,12 +69,6 @@ const products = {
         tp: 'tp',
         pr: 'pr',
         temp: 'temp'
-    },
-    cosmos: {
-        water_level: 'water_level',
-        water_depth: 'water_depth',
-        max_water_level: 'max_water_level',
-        max_water_depth: 'max_water_depth'
     }
 }
 
@@ -210,56 +203,6 @@ const productImageDir = {
             info:'Temperature (in Fahrenheit or Degree (Celsius)) forecasted over 120 hours, updated every hour. The first 18 hours are forecasted by the HRRR model, and the 19-120-hour forecasts are from the National Blend of Models. The spatial resolution is 3 km, and the temporal resolution is one hour.'
         },
     },
-    cosmos: {
-        water_level: {
-            id: 'water_level',
-            unit: {
-                ft: 'ft'
-            },
-            images: '/products/water_level/images/',
-            details: '/products/water_level/details.json',
-            colorbar: {
-                ft: '/images/colormap_level_ft.png'
-            },
-            info:''
-        },
-        water_depth: {
-            id: 'water_depth',
-            unit: {
-                ft: 'ft'
-            },
-            images: '/products/water_depth/images/',
-            details: '/products/water_depth/details.json',
-            colorbar: {
-                ft: '/images/colormap_depth_ft.png'
-            },
-            info:''
-        },
-        max_water_level: {
-            id: 'max_water_level',
-            unit: {
-                ft: 'ft'
-            },
-            images: '/products/max_water_level/images/',
-            details: '/products/max_water_level/details.json',
-            colorbar: {
-                ft: '/images/colormap_max_level_ft.png'
-            },
-            info:''
-        },
-        max_water_depth: {
-            id: 'max_water_depth',
-            unit: {
-                ft: 'ft'
-            },
-            images: '/products/max_water_depth/images/',
-            details: '/products/max_water_depth/details.json',
-            colorbar: {
-                ft: '/images/colormap_max_depth_ft.png'
-            },
-            info:''
-        },
-    }
 }
 
 module.exports = {

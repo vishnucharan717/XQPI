@@ -23,14 +23,12 @@ import clsx from 'clsx';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSatelliteDish } from '@fortawesome/free-solid-svg-icons'
 import { faCloudShowersHeavy } from '@fortawesome/free-solid-svg-icons'
-import { faWater } from '@fortawesome/free-solid-svg-icons'
 import { faBackwardStep } from '@fortawesome/free-solid-svg-icons'
 import { faBackward } from '@fortawesome/free-solid-svg-icons'
 import { faForwardStep } from '@fortawesome/free-solid-svg-icons'
 import { faForward } from '@fortawesome/free-solid-svg-icons'
 import { faCirclePlay } from '@fortawesome/free-solid-svg-icons'
 import { faPause } from "@fortawesome/free-solid-svg-icons";
-import { faBarsStaggered } from '@fortawesome/free-solid-svg-icons';
 import Box from '@mui/material/Box';
 import Slider from '@mui/material/Slider';
 import { Tooltip } from "@material-tailwind/react";
@@ -200,74 +198,6 @@ export default function PublicSideNav({
                         </PopoverContent>
                     </Popover>
                 </div>
-                <div className="flex grow items-center justify-center gap-2">
-                    <Popover placement="bottom-end">
-                        <PopoverHandler className="w-full bg-[#1e4d2b4a] text-black p-2">
-                            <Button className=""><FontAwesomeIcon icon={faWater} size="2x" color="#1e4d2b" /></Button>
-                        </PopoverHandler>
-                        <PopoverContent className="w-72">
-                            <div className="mb-4 flex items-center gap-4 border-b border-blue-gray-50 p-2 rounded-lg bg-[#eceff180]">
-                                <FontAwesomeIcon icon={faWater} size="2x" color="#1e4d2b" />
-                                <div>
-                                    <Typography variant="h6" color="blue-gray">
-                                        CoSMoS Data
-                                    </Typography>
-                                </div>
-                            </div>
-                            <List className="p-0">
-                                <ListItem>
-                                    <ListItemPrefix>
-                                        <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                    </ListItemPrefix>
-                                    Water Level
-                                </ListItem>
-                                <ListItem>
-                                    <ListItemPrefix>
-                                        <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                    </ListItemPrefix>
-                                    Water Depth
-                                </ListItem>
-                                <ListItem>
-                                    <ListItemPrefix>
-                                        <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                    </ListItemPrefix>
-                                    Max Water Level
-                                </ListItem>
-                                <ListItem>
-                                    <ListItemPrefix>
-                                        <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                    </ListItemPrefix>
-                                    Max Water Depth
-                                </ListItem>
-                            </List>
-                        </PopoverContent>
-                    </Popover>
-                </div>
-                <div className="flex grow items-center justify-center gap-2">
-                    <Popover placement="bottom-end">
-                        <PopoverHandler className="w-full bg-[#1e4d2b4a] text-black p-2">
-                            <Button className=""><FontAwesomeIcon icon={faBarsStaggered} size="2x" color="#1e4d2b" /></Button>
-                        </PopoverHandler>
-                        <PopoverContent className="w-72">
-                            <div className="mb-4 flex items-center gap-4 border-b border-blue-gray-50 p-2 rounded-lg bg-[#eceff180]">
-                                <FontAwesomeIcon icon={faBarsStaggered} size="2x" color="#1e4d2b" />
-                                <div>
-                                    <Typography variant="h6" color="blue-gray">
-                                        National Water Model
-                                    </Typography>
-                                </div>
-                            </div>
-                            <List className="p-0">
-                                <ListItem onClick={() => onProductChange('stream_reach')}>
-                                    <ListItemPrefix>
-                                        <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                    </ListItemPrefix>
-                                    Stream Reach
-                                </ListItem>
-                            </List>
-                        </PopoverContent>
-                    </Popover>
-                </div>
             </div>
             <div className="hidden md:flex min-h-screen w-full mr-5 2xl:mr-0">
                 <div className="2xl:w-full">
@@ -368,88 +298,6 @@ export default function PublicSideNav({
                                                 <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
                                             </ListItemPrefix>
                                             Temperature
-                                        </ListItem>
-                                    </List>
-                                </AccordionBody>
-                            </Accordion>
-                            <hr className="my-2 border-blue-gray-50" />
-                            <Accordion
-                                open={open === 3}
-                                icon={
-                                    <ChevronDownIcon
-                                        strokeWidth={2.5}
-                                        className={`mx-auto h-4 w-4 transition-transform ${open === 3 ? "rotate-180" : ""}`}
-                                    />
-                                }
-                            >
-                                <ListItem className={clsx("p-0 hover:bg-[#1e4d2b4a]", { 'bg-[#1e4d2b4a] text-theme_green': open === 3 })} selected={open === 3}>
-                                    <AccordionHeader onClick={() => handleOpen(3)} className="border-b-0 p-2">
-                                        <ListItemPrefix className="text-black">
-                                            {/* <WaterIcon fontSize="large" className="h-5 w-5" /> */}
-                                            <FontAwesomeIcon icon={faWater} size="xl" color="#1e4d2b" />
-                                        </ListItemPrefix>
-                                        <Typography color="black" className="mr-auto font-normal">
-                                            CoSMoS Data
-                                        </Typography>
-                                    </AccordionHeader>
-                                </ListItem>
-                                <AccordionBody className="py-1">
-                                    <List className="p-0 text-black">
-                                        <ListItem onClick={() => onProductChange('water_level')}>
-                                            <ListItemPrefix>
-                                                <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                            </ListItemPrefix>
-                                            Water Level
-                                        </ListItem>
-                                        <ListItem onClick={() => onProductChange('water_depth')}>
-                                            <ListItemPrefix>
-                                                <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                            </ListItemPrefix>
-                                            Water Depth
-                                        </ListItem>
-                                        <ListItem onClick={() => onProductChange('max_water_level')}>
-                                            <ListItemPrefix>
-                                                <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                            </ListItemPrefix>
-                                            Max Water Level
-                                        </ListItem>
-                                        <ListItem onClick={() => onProductChange('max_water_depth')}>
-                                            <ListItemPrefix>
-                                                <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                            </ListItemPrefix>
-                                            Max Water Depth
-                                        </ListItem>
-                                    </List>
-                                </AccordionBody>
-                            </Accordion>
-                            <hr className="my-2 border-blue-gray-50" />
-                            <Accordion
-                                open={open === 4}
-                                icon={
-                                    <ChevronDownIcon
-                                        strokeWidth={2.5}
-                                        className={`mx-auto h-4 w-4 transition-transform ${open === 4 ? "rotate-180" : ""}`}
-                                    />
-                                }
-                            >
-                                <ListItem className={clsx("p-0 hover:bg-[#1e4d2b4a]", { 'bg-[#1e4d2b4a] text-theme_green': open === 3 })} selected={open === 3}>
-                                    <AccordionHeader onClick={() => handleOpen(4)} className="border-b-0 p-2">
-                                        <ListItemPrefix className="text-black">
-                                            {/* <WaterIcon fontSize="large" className="h-5 w-5" /> */}
-                                            <FontAwesomeIcon icon={faBarsStaggered} size="xl" color="#1e4d2b" />
-                                        </ListItemPrefix>
-                                        <Typography color="black" className="mr-auto font-normal">
-                                            National Water Model
-                                        </Typography>
-                                    </AccordionHeader>
-                                </ListItem>
-                                <AccordionBody className="py-1">
-                                    <List className="p-0 text-black">
-                                        <ListItem onClick={() => onProductChange('stream_reach')}>
-                                            <ListItemPrefix>
-                                                <ChevronRightIcon strokeWidth={3} className="h-3 w-5" />
-                                            </ListItemPrefix>
-                                            Stream Reach
                                         </ListItem>
                                     </List>
                                 </AccordionBody>
